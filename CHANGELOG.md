@@ -1,5 +1,5 @@
 # Cookies Vision 2.0.0
-- Hopefully, a self-updating uploading bot (site upload).!
+- Hopefully, a self-updating uploading bot (site upload).
 
 # Cookies Vision 1.0.1
 - Added config files
