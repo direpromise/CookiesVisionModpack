@@ -1,12 +1,15 @@
-name: Cookies Vision Modpack
+name: Cookies-Vision-Modpack
 
 # Run when a new release is... released
-on: 
-  release:
-    types: [published]
+on:
+  push:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
-  publish:
+  thunderstore:
     runs-on: ubuntu-latest
     steps:
       # Use checkout to publish the files in your repo
@@ -21,5 +24,6 @@ jobs:
           community: Lethal Company
           repo: thunderstore.io/c/lethal-company
           categories: | # <-- notice this pipe character
-            foo
-            bar-baz
+            modpacks
+            monsters
+            emotes
