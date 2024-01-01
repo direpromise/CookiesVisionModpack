@@ -1,0 +1,53 @@
+name: Update Modpack on Thunderstore
+
+on:
+  push:
+    paths:
+      - 'CHANGELOG.md'
+
+jobs:
+  update_modpack:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Create modpack zip
+        run: |
+          # Commands to create the 'CookiesVisionModpack.zip'
+          # For example:
+          # zip -r CookiesVisionModpack.zip path/to/BepInEx path/to/CHANGELOG.md path/to/icon.png path/to/manifest.json path/to/README.md
+
+      - name: Upload to Thunderstore
+        uses: GreenTF/upload-thunderstore-package@v4.2
+        with:
+          namespace: GreenTF
+          name: CookiesVisionModpack
+          dev: true
+          token: ${{ secrets.TS_KEY }}
+          description: |
+            Your modpack description goes here.
+          version: v1.${{ github.run_number }}.0
+          community: lethal-company
+          repo: thunderstore.io
+          wrap: modpacks
+          website: "https://your-modpack-website.com"
+          categories: |
+            asset-replacements
+            emotes
+            furniture
+            monsters
+            items
+            equipment
+            suits
+            tools
+            mods
+            modpacks
+            misc
+            audio
+            bepinex
+
+          file: ./CookiesVisionModpack.zip
+
+      # Add further steps as required
