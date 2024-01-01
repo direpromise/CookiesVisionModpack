@@ -22,11 +22,10 @@ jobs:
         with:
           namespace: GreenTF
           name: CookiesVisionModpack
-          dev: true
           token: ${{ secrets.TS_KEY }}
           description: |
             Your modpack description goes here.
-          version: v1.${{ github.run_number }}.0
+          version: ${{ github.run_number }}
           community: lethal-company
           repo: thunderstore.io
           wrap: modpacks
