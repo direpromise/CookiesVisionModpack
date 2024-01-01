@@ -1,4 +1,4 @@
-# Cookies Vision 1.0.2
+# Cookies Vision 1.0.7
 - Hopefully, a self-updating uploading bot (site upload).
 
 # Cookies Vision 1.0.1
