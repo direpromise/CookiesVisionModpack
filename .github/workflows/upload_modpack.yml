@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.TS_KEY }}
           description: |
             Your modpack description goes here.
-          version: ${{ github.run_number }}
+          version: ${{ github.ref_name }} # Use the tag as the package version
           community: lethal-company
           repo: thunderstore.io
           wrap: modpacks
