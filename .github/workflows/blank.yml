@@ -1,0 +1,25 @@
+name: Cookies Vision Modpack
+
+# Run when a new release is... released
+on: 
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      # Use checkout to publish the files in your repo
+      - uses: actions/checkout@v3
+      - uses: GreenTF/upload-thunderstore-package@v4.2
+        with:
+          namespace: ChocolateCookies # the thunderstore 'team' to publish under
+          description: A Lethal Company VanillaPlus experience that aims to enhance the gameplay loop of LC.
+          token: ${{ secrets.COOKIESSERVICE }}
+          name: Cookies Vision Modpack # the name of the package
+          version: ${{ github.ref_name }} # Use the tag as the package version
+          community: Lethal Company
+          repo: thunderstore.io/c/lethal-company
+          categories: | # <-- notice this pipe character
+            foo
+            bar-baz
