@@ -15,9 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Create Cookies Vision Modpack Zip
-        run: |
-          sudo apt install zip
-          echo '{ "namespace": "ChocolateCookies", "name": "CookiesVisionModpack", "description": "A Lethal Company VanillaPlus experience that aims to enhance the gameplay loop of LC.", "version_number": "1.${{ github.run_number }}.0", "dependencies": [], "website_url": "https://creampies.wtf" }' > manifest.json
+      run: |
+        sudo apt install zip
+        zip -r CookiesVisionModpack.zip icon.png manifest.json BepInEx README.md CHANGELOG.md
           zip -r CookiesVisionModpack.zip * -x "*.git*"
       - id: pub
         uses: ./
