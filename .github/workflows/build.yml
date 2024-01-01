@@ -1,0 +1,32 @@
+name: Build TCLI Image
+
+on:
+  workflow_dispatch:
+    inputs:
+      push:
+        type: boolean
+        default: false
+  release: 
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build the Docker image
+      run: docker build . --file Dockerfile.tcli --tag ghcr.io/greentf/tcli:latest
+    - name: Authenticate with GHCR
+      if: ${{ github.event_name == 'release' || github.event.inputs.push == 'true' }}
+      uses: docker/login-action@v2.1.0
+      with:
+        registry: ghcr.io
+        username: greentf
+        password: ${{ secrets.GHCR_TOKEN }}
+    - name: Push container
+      if: ${{ github.event_name == 'release' || github.event.inputs.push == 'true' }}
+      run: docker push ghcr.io/greentf/tcli:latest

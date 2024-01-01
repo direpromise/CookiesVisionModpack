@@ -1,0 +1,57 @@
+name: Upload Prebuilt Zip
+
+on:
+  push:
+    paths:
+      - 'CHANGELOG.md'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create Cookies Vision Modpack Zip
+        run: |
+          sudo apt install zip
+          echo "{ \"namespace\": \"ChocolateCookies\", \"name\": \"CookiesVisionModpack\", \"description\": \"Test\", \"version_number\": \"1.${{ github.run_number }}.0\",  \"dependencies\": [], \"website_url\": \"https://creampies.wtf\" }" >> manifest.json
+          zip CookiesVisionModpack.zip ./*
+      - id: pub
+        uses: ./
+        with:
+          namespace: ChocolateCookies
+          name: CookiesVisionModpack
+          token: ${{ secrets.TS_KEY }}
+          description: |
+            The FitnessGram Pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues. 
+            The 20 meter Pacer test will begin in 30 seconds. 
+            Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal *boop*.
+            A single lap should be completed each time you hear this sound *ding*. Remember to run in a straight line, and run as long as possible. 
+            The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. 
+            On your mark, get ready, start.
+          version: v1.${{ github.run_number }}.0
+          community: lethal-company
+          repo: thunderstore.io
+          wrap: modpacks
+          website: "https://creampies.wtf"
+          categories: |
+            asset-replacements
+            emotes
+            furniture
+            monsters
+            items
+            equipment
+            suits
+            tools
+            mods
+            modpacks
+            misc
+            audio
+            bepinex
+          deps: |
+            ChocolateCookies-CookiesVisionModpack-1.${{ github.run_number }}.0
+          file: ./CookiesVisionModpack.zip
+      - run: echo ${{ steps.pub.outputs.url }}
