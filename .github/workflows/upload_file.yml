@@ -15,10 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Create Cookies Vision Modpack Zip
-      run: |
-        sudo apt install zip
-        zip -r CookiesVisionModpack.zip icon.png manifest.json BepInEx README.md CHANGELOG.md
-          zip -r CookiesVisionModpack.zip * -x "*.git*"
+        run: |
+          sudo apt install zip
+          zip -r CookiesVisionModpack.zip icon.png manifest.json BepInEx README.md CHANGELOG.md
       - id: pub
         uses: ./
         with:
