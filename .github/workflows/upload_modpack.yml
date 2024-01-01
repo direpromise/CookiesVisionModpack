@@ -44,9 +44,6 @@ jobs:
             bepinex
       - run: echo ${{ steps.pub.outputs.url }}
 
-
-
-
         # publish:
         #   needs: test
         #   if: github.event_name == 'push'
