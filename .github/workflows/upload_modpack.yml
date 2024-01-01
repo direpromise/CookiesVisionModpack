@@ -15,9 +15,7 @@ jobs:
 
       - name: Create modpack zip
         run: |
-          # Commands to create the 'CookiesVisionModpack.zip'
-          # For example:
-          # zip -r CookiesVisionModpack.zip path/to/BepInEx path/to/CHANGELOG.md path/to/icon.png path/to/manifest.json path/to/README.md
+          zip -r CookiesVisionModpack.zip BepInEx/ CHANGELOG.md icon.png manifest.json README.md
 
       - name: Upload to Thunderstore
         uses: GreenTF/upload-thunderstore-package@v4.2
