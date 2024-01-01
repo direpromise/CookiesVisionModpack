@@ -23,7 +23,7 @@ jobs:
         uses: ./
         with:
           namespace: ChocolateCookies
-          name: CookiesVisionModpack
+          name: Cookies Vision Modpack
           token: ${{ secrets.TS_KEY }}
           description: |
             The FitnessGram Pacer test is a multistage aerobic capacity test that progressively gets more difficult as it continues. 
@@ -35,7 +35,7 @@ jobs:
           version: v1.${{ github.run_number }}.0
           community: lethal-company
           repo: thunderstore.io
-          wrap: modpacks
+#          wrap: modpacks
           website: "https://creampies.wtf"
           categories: |
             asset-replacements
