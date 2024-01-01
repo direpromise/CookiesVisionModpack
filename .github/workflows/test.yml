@@ -1,8 +1,9 @@
 name: Cookies-Vision-Modpack
 
-# Run when a new release is... released
 on:
   push:
+    branches:
+      - main
   pull_request:
     branches:
       - main
@@ -10,12 +11,11 @@ on:
 
 jobs:
   test:
-  
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout code
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v3
 
       - name: Install zip
         run: sudo apt-get install zip -y
@@ -42,4 +42,4 @@ jobs:
           file: ./test.zip
 
       - name: Display Thunderstore URL
-        run: echo ${{ steps.pub.outputs.url }}
+        run: echo ${{ steps['Publish to Thunderstore'].outputs.url }}
