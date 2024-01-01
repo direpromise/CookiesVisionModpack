@@ -1,3 +1,6 @@
+# Cookies Vision 1.0.2
+- Hopefully, a self-updating uploading bot (site upload).
+
 # Cookies Vision 1.0.1
 - Added config files
 - Removed LethalThings' Night Vision Goggles (unneeded considering Advanced Company aleady has working goggles.)
