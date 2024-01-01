@@ -1,35 +1,33 @@
-name: Update Modpack on Thunderstore
+name: Upload Modpack
 
 on:
   push:
     paths:
       - 'CHANGELOG.md'
+  workflow_dispatch:
+
+
 
 jobs:
-  update_modpack:
+  test:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Create modpack zip
-        run: |
-          zip -r CookiesVisionModpack.zip BepInEx/ CHANGELOG.md icon.png manifest.json README.md
-
-      - name: Upload to Thunderstore
-        uses: GreenTF/upload-thunderstore-package@v4.2
+      - uses: actions/checkout@v3
+      - id: pub
+        uses: ./
         with:
-          namespace: GreenTF
+          namespace: ChocolateCookies
           name: CookiesVisionModpack
           token: ${{ secrets.TS_KEY }}
           description: |
-            Your modpack description goes here.
-          version: ${{ github.ref_name }} # Use the tag as the package version
+            I am tough.
+          version: v0.${{ github.run_number }}.0
           community: lethal-company
           repo: thunderstore.io
           wrap: modpacks
-          website: "https://your-modpack-website.com"
+          website: "https://creampies.wtf"
           categories: |
             asset-replacements
             emotes
@@ -44,7 +42,21 @@ jobs:
             misc
             audio
             bepinex
+      - run: echo ${{ steps.pub.outputs.url }}
 
-          file: ./CookiesVisionModpack.zip
 
-      # Add further steps as required
+
+
+        # publish:
+        #   needs: test
+        #   if: github.event_name == 'push'
+        #   runs-on: ubuntu-latest
+        #   steps:
+        #     - name: Create Release
+        #       uses: marvinpinto/action-automatic-releases@latest
+        #       with:
+        #         repo_token: ${{ secrets.GITHUB_TOKEN }}
+        #         prelease: false
+
+
+
