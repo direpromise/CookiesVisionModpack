@@ -1,3 +1,8 @@
+# Cookies Vision 1.0.1
+- Added config files
+- Removed LethalThings' Night Vision Goggles (unneeded considering Advanced Company aleady has working goggles.)
+- Optimized Game
+
 # Cookies Vision 1.0.0
 - Public Release
 
