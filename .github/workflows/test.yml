@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.COOKIESSERVICE }}
           name: Cookies Vision Modpack # the name of the package
           version: ${{ github.ref_name }} # Use the tag as the package version
-          community: lethal=company
+          community: lethal-company
           repo: thunderstore.io/c/lethal-company
           categories: | # <-- notice this pipe character
             modpacks
