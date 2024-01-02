@@ -22,6 +22,8 @@ Welcome to **Cookies Vision**, an extensive modpack for Lethal Company! This col
 2. **Launch Lethal Company:** Open the game.
 3. **Enjoy:** Experience an enhanced gaming journey with your newly installed mods!
 
+If you want a complete overhaul of the suits, making every suit purchasable via the store, you can download my [SuitsOverhaul](https://cdn.discordapp.com/attachments/1191099242694049993/1191804478094049361/SuitsOverhaul.zip?ex=65a6c56a&is=6594506a&hm=8ba54abb497700a003149a4a381b4b9d2f7b810fcc224b5d2069cad1ac1f1260&) and drag it to your modpack.
+
 ## 👥 Contributors
 
 - [@ChocoloateCookies](https://github.com/direpromise)

@@ -1,3 +1,9 @@
+# Cookies Vision 2.0.8
+
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Added Optional Suits Store Overhaul (makes all suits purchasable in the store, off by default)
+
 # Cookies Vision 2.0.7
 
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
