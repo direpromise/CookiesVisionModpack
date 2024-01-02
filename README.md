@@ -1,7 +1,7 @@
 # 🍪 Cookies Vision Modpack 🍪
 
 ![Banner](https://i.imgur.com/C7QUR5I.png)
-![Static Badge](https://img.shields.io/badge/Support-0%2C%20209%2C%200?style=for-the-badge&logo=kofi&logoColor=%23fc8803&link=https%3A%2F%2Fko-fi.com%2Fccchocolatecookies)
+[![Ko-fi](https://img.shields.io/badge/Support-0%2C%20209%2C%200?style=for-the-badge&logo=kofi&logoColor=%23fc8803&link=https%3A%2F%2Fko-fi.com%2Fccchocolatecookies)](https://ko-fi.com/ccchocolatecookies)
 
 Welcome to **Cookies Vision**, an extensive modpack for Lethal Company! This collection is dedicated to enhancing your gaming experience by offering a vast array of mods, quality of life updates, new monsters, items, features, and much more.
 
