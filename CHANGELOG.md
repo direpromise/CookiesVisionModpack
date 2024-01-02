@@ -1,3 +1,18 @@
+# Cookies Vision 2.0.6
+
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated icon.png
+- Updated README.md
+- Updated BetterLadders
+- Updated BetterSpec
+- Updated DetailedScan
+- Updated Diversity
+- Updated LethalRichPresence
+- Updated SpectateEnemies
+- Updated EnhancedRadarBooster
+- Updated EnhancedTZP
+
 # Cookies Vision 2.0.5
 
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
