@@ -1,3 +1,12 @@
+# Cookies Vision 2.0.3
+
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated config files.
+- Updated [EnhancedRadarBooster.](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/) (Remote scrap can trigger Radar Booster Flash in it range.)
+- Removed [HideModList.](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)
+- Removed [HDLethalCompany.](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
+
 # Cookies Vision 2.0.2
 
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:

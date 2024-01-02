@@ -1,5 +1,4 @@
 
-dependencies.txt
 dependency_fixer.exe
 bash exe maker.txt
 action.yml
@@ -8,3 +7,4 @@ cliff.toml
 Dockerfile
 Dockerfile.tcli
 entrypoint.sh
+dependencies.txt
