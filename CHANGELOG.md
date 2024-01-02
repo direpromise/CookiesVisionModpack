@@ -1,3 +1,12 @@
+# Cookies Vision 2.0.9
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated CozyImprovements.
+- Updated Diversity.
+- Updated README.md
+- Added/Updated Patchers.
+- Added Modpack Utilities.
+
 # Cookies Vision 2.0.8
 
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
