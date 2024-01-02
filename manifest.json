@@ -1,10 +1,11 @@
 {
   "name": "Cookies_Vision_Modpack",
-  "version_number": "2.0.4",
+  "version_number": "2.0.5",
   "website_url": "",
   "description": "A Lethal Company VanillaPlus experience that aims to enhance the gameplay loop of LC.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
+    "ChocolateCookies-Cookies_Vision_Utilities-1.0.1",
     "PotatoePet-AdvancedCompany-1.0.10",
     "RugbugRedfern-Skinwalkers-2.0.1",
     "tinyhoot-ShipLoot-1.0.0",

@@ -1,3 +1,10 @@
+# Cookies Vision 2.0.5
+
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated CV Utilities. (Now players that run this modpack will have their lobbies tagged as [CookiesVision], or [CV] as a prefix in the lobby selector menu!
+
+
 # Cookies Vision 2.0.4
 
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
