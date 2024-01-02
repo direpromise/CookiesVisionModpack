@@ -1,3 +1,20 @@
+# Cookies Vision 2.0.7
+
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- **NOTE:** Please ⚠ REINSTALL MODPACK FRESH AFTER VERSION 2.0.6, I AM ATTEMPTING TO FIX SUITS/STORE
+
+- Updated README.md
+- Updated config files.
+- Testing Fixes/Config(!)
+- Space Pajama Suit Patched.
+-  Rust Hazmat Suit Patched.
+-  VaultBoy Suit Patched.
+- Void Suit Patched.
+-  One Piece Suits Patched.
+-  Blue Archive Models Patched.
+-  More Suits Patched.
+
 # Cookies Vision 2.0.6
 
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
