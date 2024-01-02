@@ -1,3 +1,10 @@
 
 dependencies.txt
+dependency_fixer.exe
 bash exe maker.txt
+action.yml
+cfg_edit.js
+cliff.toml
+Dockerfile
+Dockerfile.tcli
+entrypoint.sh
