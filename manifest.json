@@ -1,6 +1,6 @@
 {
   "name": "Cookies_Vision_Modpack",
-  "version_number": "2.0.3",
+  "version_number": "2.0.4",
   "website_url": "",
   "description": "A Lethal Company VanillaPlus experience that aims to enhance the gameplay loop of LC.",
   "dependencies": [
@@ -99,6 +99,11 @@
     "Toskan4134-LethalRegeneration-1.1.1",
     "FlipMods-FasterItemDropship-1.2.0",
     "MegaPiggy-BuyableShotgunShells-1.0.1",
-    "Sv_Matt-HideModList-1.0.1"
+    "Sv_Matt-HideModList-1.0.1",
+    "TeamClark-RustHazmatSuit-1.0.0",
+    "TeamClark-Vault_Boy_Suit-1.0.0",
+    "Crab_imitation-Space_Pajamas_Suit-1.0.6",
+    "VoidNW-VoidSuit-1.0.3",
+    "OnePeak-Low_Budget_One_Piece_suits-0.5.1"
   ]
 }

@@ -1,3 +1,14 @@
+# Cookies Vision 2.0.4
+
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated suit files.
+- Added [Vault Boy Suit.](https://thunderstore.io/c/lethal-company/p/TeamClark/Vault_Boy_Suit/)
+- Removed [Space Pajamas Suit.](https://thunderstore.io/c/lethal-company/p/Crab_imitation/Space_Pajamas_Suit/)
+- Removed [RustHazmatSuit.](https://thunderstore.io/c/lethal-company/p/TeamClark/RustHazmatSuit/)
+- Removed [VoidSuit.](https://thunderstore.io/c/lethal-company/p/VoidNW/VoidSuit/)
+- Removed [Low Budget One Piece suits.](https://thunderstore.io/c/lethal-company/p/OnePeak/Low_Budget_One_Piece_suits/)
+
 # Cookies Vision 2.0.3
 
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
