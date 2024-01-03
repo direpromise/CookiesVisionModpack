@@ -18,7 +18,7 @@ jobs:
         run: |
           sudo apt install zip
           cd CookiesVisionModpack/CookiesBODY
-          zip -r CookiesBODY.zip icon.png manifest.json BepInEx README.md CHANGELOG.md
+          zip -r ../CookiesBODY.zip icon.png manifest.json BepInEx README.md CHANGELOG.md
       - id: pub
         uses: ./
         with:
