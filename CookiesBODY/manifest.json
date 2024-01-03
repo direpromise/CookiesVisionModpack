@@ -2,7 +2,7 @@
   "name": "CookiesBODY",
   "version_number": "1.0.0",
   "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
-  "description": "A Core Component for Cookies Vision Modpack, please do not download independently.",
+  "description": "A Core Component for Cookies Vision Modpack, please do not download independently!",
   "dependencies": [
     "IntegrityChaos-Diversity-1.1.6",
     "Spyci-CozyImprovements-1.2.0",
