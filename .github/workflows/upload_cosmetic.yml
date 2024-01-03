@@ -16,8 +16,10 @@ jobs:
       - uses: actions/checkout@v3
       - name: Create CookiesCOSMETICS Zip
         run: |
+          sudo apt update
           sudo apt install zip
-          zip -r CookiesCOSMETICS.zip CookiesVisionModpack/CookiesCOSMETICS/icon.png CookiesVisionModpack/CookiesCOSMETICS/manifest.json CookiesVisionModpack/CookiesCOSMETICS/BepInEx CookiesVisionModpack/CookiesCOSMETICS/README.md CookiesVisionModpack/CookiesCOSMETICS/CHANGELOG.md
+          cd CookiesVisionModpack/CookiesBODY
+          zip -r CookiesBODY.zip icon.png manifest.json BepInEx README.md CHANGELOG.md
       - id: pub
         uses: ./
         with:
