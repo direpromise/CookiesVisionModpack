@@ -10,16 +10,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  test:
+  upload_to_thunderstore:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
       - name: Create CVUtilities Zip
         run: |
           sudo apt install zip
-          zip -r CVUtilities.zip CVUtilities/CookiesVisionUtilities.dll CVUtilities/icon.png CVUtilities/manifest.json CVUtilities/README.md
-      - id: pub
-        uses: ./
+          zip -r CVUtilities.zip CookiesVisionModpack/CVUtilities/CookiesVisionUtilities.dll CookiesVisionModpack/CVUtilities/icon.png CookiesVisionModpack/CVUtilities/manifest.json CookiesVisionModpack/CVUtilities/README.md
+      
+      - name: Upload to Thunderstore
+        id: upload
+        uses: thunderstore-io/github-action@v1
         with:
           namespace: ChocolateCookies
           name: CVUtilities
@@ -44,8 +48,9 @@ jobs:
             misc
             audio
             bepinex
-          # Check the correct format for dependencies in Thunderstore
           deps: |
             ChocolateCookies-CVUtilities-1.${{ github.run_number }}.0
           file: ./CVUtilities.zip
-      - run: echo ${{ steps.pub.outputs.url }}
+      
+      - name: Display Thunderstore URL
+        run: echo ${{ steps.upload.outputs.url }}
