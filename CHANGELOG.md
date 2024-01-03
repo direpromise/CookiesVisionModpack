@@ -1,3 +1,18 @@
+# Cookies Vision 2.1.2
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated TooManySuits.
+- Updated EnhancedTZP
+- Updated Diversity
+- Updated CozyImprovements
+- Updated LethalRichPresence
+- Updated BetterLadders
+- Updated SpectateEnemies
+- Updated BetterSpec
+- Updated DetailedScan
+- Added Space Pajamas Suit.
+- Added CoomfyDungeon.
+
 # Cookies Vision 2.1.1
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
