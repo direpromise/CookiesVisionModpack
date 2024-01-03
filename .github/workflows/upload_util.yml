@@ -1,4 +1,4 @@
-name: Upload Prebuilt Zip (Util)
+name: Upload Prebuilt Zip
 
 on:
   push:
@@ -10,20 +10,43 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-
+      - uses: actions/checkout@v3
       - name: Create CVUtilities Zip
         run: |
           sudo apt install zip
           cd CVUtilities
           zip -r ../CVUtilities.zip .
-
-      - name: Upload CVUtilities Zip
-        uses: thunderstore/actions/upload@v1
+      - id: pub
+        uses: ./
         with:
-          apiKey: ${{ secrets.THUNDERSTORE_API_KEY }}
-          file: ./CVUtilities.zip
+          namespace: ChocolateCookies
+          name: Cookies Vision Utilities
+          token: ${{ secrets.TS_KEY }}
+          description: |
+            Some patches for the Cookie's Vision Modpack.
+          version: v1.${{ github.run_number }}.0
+          community: lethal-company
+          repo: thunderstore.io
+          website: "https://creampies.wtf"
+          categories: |
+            asset-replacements
+            emotes
+            furniture
+            monsters
+            items
+            equipment
+            suits
+            tools
+            mods
+            modpacks
+            misc
+            audio
+            bepinex
+          # Check the correct format for dependencies in Thunderstore
+          deps: | 
+            ChocolateCookies-Cookies_Vision_Utilities-1.${{ github.run_number }}.0
+          file: ./Cookies_Vision_Utilities.zip
+      - run: echo ${{ steps.pub.outputs.url }}
