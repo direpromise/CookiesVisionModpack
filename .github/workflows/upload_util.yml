@@ -32,7 +32,6 @@ jobs:
           website: "https://creampies.wtf"
           categories: |
             asset-replacements
-            server-side
             emotes
             furniture
             monsters
