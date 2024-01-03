@@ -1,9 +1,9 @@
-name: Create CVUtilities Zip
+name: Upload Util Zip
 
 on:
   push:
     paths:
-      - 'CookiesVisionModpack/CVUtilities/**'
+      - 'CVUtilities/**'
   pull_request:
     branches:
       - main
@@ -12,16 +12,17 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
       - name: Create CVUtilities Zip
-        working-directory: CookiesVisionModpack/CVUtilities
         run: |
-          zip -r ../../CVUtilities.zip CookiesVisionUtilities.dll icon.png manifest.json README.md
+          sudo apt install zip
+          cd CVUtilities
+          zip -r ../CVUtilities.zip .
 
       - name: Upload CVUtilities Zip
-        if: success()
         uses: actions/upload-artifact@v2
         with:
           name: CVUtilities
