@@ -18,8 +18,9 @@ jobs:
       
       - name: Create CVUtilities Zip
         run: |
-          sudo apt install zip
-          zip -r CVUtilities.zip CookiesVisionModpack/CVUtilities/CookiesVisionUtilities.dll CookiesVisionModpack/CVUtilities/icon.png CookiesVisionModpack/CVUtilities/manifest.json CookiesVisionModpack/CVUtilities/README.md
+      # Mobile folder working directory.
+        working-directory: CVUtilities
+          zip -r CVUtilities.zip CookiesVisionUtilities.dll icon.png manifest.json README.md
       
       - name: Upload to Thunderstore
         uses: ./
