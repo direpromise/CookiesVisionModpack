@@ -17,12 +17,14 @@ jobs:
       - name: Create CVUtilities Zip
         working-directory: CVUtilities
         run: |
-          zip -r Cookies_Vision_Utilities.zip icon.png manifest.json BepInEx README.md CHANGELOG.md
+          sudo apt-get install zip
+          zip -r Cookies_Vision_Utilities.zip CookiesVisionUtilities.dll icon.png manifest.json README.md 
       - id: pub
         uses: ./
         with:
           namespace: ChocolateCookies
           name: Cookies Vision Utilities
+        working-directory: CVUtilities
           token: ${{ secrets.TS_KEY }}
           description: |
             Some patches for the Cookie's Vision Modpack.
