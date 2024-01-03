@@ -1,0 +1,51 @@
+name: Upload Prebuilt Zip
+
+on:
+  push:
+    paths:
+      - 'CHANGELOG.md'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create Cookies Vision Modpack Zip
+        run: |
+          sudo apt install zip
+          zip -r CookiesVisionModpack.zip icon.png manifest.json BepInEx README.md CHANGELOG.md
+      - id: pub
+        uses: ./
+        with:
+          namespace: ChocolateCookies
+          name: Cookies Vision Modpack
+          token: ${{ secrets.TS_KEY }}
+          description: |
+            A Lethal Company VanillaPlus experience that aims to enhance the gameplay loop of LC.
+          version: v1.${{ github.run_number }}.0
+          community: lethal-company
+          repo: thunderstore.io
+          website: "https://creampies.wtf"
+          categories: |
+            asset-replacements
+            emotes
+            furniture
+            monsters
+            items
+            equipment
+            suits
+            tools
+            mods
+            modpacks
+            misc
+            audio
+            bepinex
+          # Check the correct format for dependencies in Thunderstore
+          deps: | 
+            ChocolateCookies-CookiesVisionModpack-1.${{ github.run_number }}.0
+          file: ./CookiesVisionModpack.zip
+      - run: echo ${{ steps.pub.outputs.url }}

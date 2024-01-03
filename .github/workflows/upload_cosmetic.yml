@@ -1,0 +1,41 @@
+name: Upload Prebuilt Zip (Cosmetics)
+
+on:
+  push:
+    paths:
+      - 'CookiesVisionModpack/CookiesCOSMETICS/manifest.json'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create CookiesCOSMETICS Zip
+        run: |
+          sudo apt install zip
+          zip -r CookiesCOSMETICS.zip CookiesVisionModpack/CookiesCOSMETICS/icon.png CookiesVisionModpack/CookiesCOSMETICS/manifest.json CookiesVisionModpack/CookiesCOSMETICS/BepInEx CookiesVisionModpack/CookiesCOSMETICS/README.md CookiesVisionModpack/CookiesCOSMETICS/CHANGELOG.md
+      - id: pub
+        uses: ./
+        with:
+          namespace: ChocolateCookies
+          name: CookiesCOSMETICS
+          token: ${{ secrets.TS_KEY }}
+          description: |
+            A Lethal Company component focusing on cosmetic enhancements for Cookies Vision Modpack.
+          version: v1.${{ github.run_number }}.0
+          community: lethal-company
+          repo: thunderstore.io
+          website: "https://creampies.wtf"
+          categories: |
+            cosmetics
+            visual-mods
+            customizations
+          # Check the correct format for dependencies in Thunderstore
+          deps: |
+            ChocolateCookies-CookiesCOSMETICS-1.${{ github.run_number }}.0
+          file: ./CookiesCOSMETICS.zip
+      - run: echo ${{ steps.pub.outputs.url }}

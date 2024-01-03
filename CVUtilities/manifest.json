@@ -1,0 +1,10 @@
+{
+  "name": "Cookies_Vision_Utilities",
+  "version_number": "1.0.3",
+  "website_url": "",
+  "description": "Some patches for the Cookie's Vision Modpack.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "ChocolateCookies-Cookies_Vision_Modpack-2.1.0"
+  ]
+}

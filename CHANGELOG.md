@@ -1,3 +1,29 @@
+# Cookies Vision 2.1.0
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Added more config files.
+- Added VoiceHUD
+- Added SellTracker
+- Added Disregard_Early_Voting
+- Added MoreScreams
+- Added PintoBoy
+- Added LethalAutocomplete
+- Added EladsHUD
+- Added GamblingMachineAtTheCompany
+- Added PushCompany
+- Added MoreItems
+- Added QuotaRollover
+- Added Santa Suit
+- Added Beekeeper Suit
+- Added HEV Suit
+- Updated DetailedScan
+- Updated Diversity
+- Updated DetailedScan
+- Updated FastSwitchPlayerViewInRadar
+- Completely overhauled the structure of the modpack to better it, credits to TheMostLethalCompany Modpack for the concept.
+- Removed a bunch of suits.
+- Removed ModelReplacementAPI
+
 # Cookies Vision 2.0.9
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 

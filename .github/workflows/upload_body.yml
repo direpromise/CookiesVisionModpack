@@ -1,0 +1,51 @@
+name: Upload Prebuilt Zip (Body)
+
+on:
+  push:
+    paths:
+      - 'CookiesVisionModpack/CookiesBODY/manifest.json'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create CookiesBODY Zip
+        run: |
+          sudo apt install zip
+          zip -r CookiesBODY.zip CookiesVisionModpack/CookiesBODY/icon.png CookiesVisionModpack/CookiesBODY/manifest.json CookiesVisionModpack/CookiesBODY/BepInEx CookiesVisionModpack/CookiesBODY/README.md CookiesVisionModpack/CookiesBODY/CHANGELOG.md
+      - id: pub
+        uses: ./
+        with:
+          namespace: ChocolateCookies
+          name: CookiesBODY
+          token: ${{ secrets.TS_KEY }}
+          description: |
+            A Lethal Company Core Component for Cookies Vision Modpack, please do not download independently.
+          version: v1.${{ github.run_number }}.0
+          community: lethal-company
+          repo: thunderstore.io
+          website: "https://creampies.wtf"
+          categories: |
+            asset-replacements
+            emotes
+            furniture
+            monsters
+            items
+            equipment
+            suits
+            tools
+            mods
+            modpacks
+            misc
+            audio
+            bepinex
+          # Check the correct format for dependencies in Thunderstore
+          deps: |
+            ChocolateCookies-CookiesBODY-1.${{ github.run_number }}.0
+          file: ./CookiesBODY.zip
+      - run: echo ${{ steps.pub.outputs.url }}
