@@ -3,7 +3,7 @@ name: Upload Prebuilt Zip (Body)
 on:
   push:
     paths:
-      - 'CookiesVisionModpack/CookiesBODY/manifest.json'
+      - 'CookiesVisionModpack/CookiesBODY/**'
   pull_request:
     branches:
       - main
