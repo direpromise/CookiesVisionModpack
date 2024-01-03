@@ -15,10 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Create CVUtilities Zip
-        working-directory: CVUtilities
         run: |
           sudo apt-get install zip
-          zip -r Cookies_Vision_Utilities.zip CookiesVisionUtilities.dll icon.png manifest.json README.md 
+          cd CVUtilities
+          zip -r ../Cookies_Vision_Utilities.zip CookiesVisionUtilities.dll icon.png manifest.json README.md 
       - id: pub
         uses: ./
         with:
