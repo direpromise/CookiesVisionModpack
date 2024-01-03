@@ -1,54 +1,28 @@
-name: Upload Prebuilt Zip (Utilities)
+name: Create CVUtilities Zip
 
 on:
   push:
     paths:
-      - 'CookiesVisionModpack/CVUtilities/manifest.json'
+      - 'CookiesVisionModpack/CVUtilities/**'
   pull_request:
     branches:
       - main
   workflow_dispatch:
 
 jobs:
-  upload_to_thunderstore:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-      
+      - uses: actions/checkout@v3
+
       - name: Create CVUtilities Zip
+        working-directory: CookiesVisionModpack/CVUtilities
         run: |
-      # Mobile folder working directory.
-        working-directory: CVUtilities
-          zip -r CVUtilities.zip CookiesVisionUtilities.dll icon.png manifest.json README.md
-      
-      - name: Upload to Thunderstore
-        uses: ./
-        id: pub
+          zip -r ../../CVUtilities.zip CookiesVisionUtilities.dll icon.png manifest.json README.md
+
+      - name: Upload CVUtilities Zip
+        if: success()
+        uses: actions/upload-artifact@v2
         with:
-          token: ${{ secrets.TS_KEY }}
-          file: ./CVUtilities.zip
-          version: v1.${{ github.run_number }}.0
-          description: |
-            Some patches for the Cookie's Vision Modpack, please do not download independently.
-          namespace: ChocolateCookies
           name: CVUtilities
-          categories: |
-            asset-replacements
-            emotes
-            furniture
-            monsters
-            items
-            equipment
-            suits
-            tools
-            mods
-            libraries
-            misc
-            audio
-            bepinex
-          dependencies: |
-            ChocolateCookies-CVUtilities-1.${{ github.run_number }}.0
-      
-      - name: Display Thunderstore URL
-        run: echo "Uploaded to ${{ steps.upload.outputs.url }}"
+          path: ./CVUtilities.zip
