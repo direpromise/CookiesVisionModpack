@@ -18,7 +18,7 @@ jobs:
         run: |
           sudo apt install zip
           cd CVUtilities
-          zip -r ../CVUtilities.zip .
+          zip -r ../../Cookies_Vision_Utilities.zip .
       - id: pub
         uses: ./
         with:
