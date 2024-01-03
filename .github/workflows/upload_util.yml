@@ -22,18 +22,16 @@ jobs:
           zip -r CVUtilities.zip CookiesVisionModpack/CVUtilities/CookiesVisionUtilities.dll CookiesVisionModpack/CVUtilities/icon.png CookiesVisionModpack/CVUtilities/manifest.json CookiesVisionModpack/CVUtilities/README.md
       
       - name: Upload to Thunderstore
-        id: upload
-        uses: thunderstore-io/github-action@v1
+        uses: ./
+        id: pub
         with:
-          namespace: ChocolateCookies
-          name: CVUtilities
           token: ${{ secrets.TS_KEY }}
+          file: ./CVUtilities.zip
+          version: v1.${{ github.run_number }}.0
           description: |
             Some patches for the Cookie's Vision Modpack, please do not download independently.
-          version: v1.${{ github.run_number }}.0
-          community: lethal-company
-          repo: thunderstore.io
-          website: "https://creampies.wtf"
+          namespace: ChocolateCookies
+          name: CVUtilities
           categories: |
             asset-replacements
             emotes
@@ -48,9 +46,8 @@ jobs:
             misc
             audio
             bepinex
-          deps: |
+          dependencies: |
             ChocolateCookies-CVUtilities-1.${{ github.run_number }}.0
-          file: ./CVUtilities.zip
       
       - name: Display Thunderstore URL
-        run: echo ${{ steps.upload.outputs.url }}
+        run: echo "Uploaded to ${{ steps.upload.outputs.url }}"
