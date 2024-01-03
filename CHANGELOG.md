@@ -1,3 +1,8 @@
+# Cookies Vision 2.1.1
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Fixed a problem (:
+
 # Cookies Vision 2.1.0
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
