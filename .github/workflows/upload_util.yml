@@ -1,4 +1,4 @@
-name: Upload Prebuilt Zip
+name: Upload Prebuilt Zip (Utilities)
 
 on:
   push:
