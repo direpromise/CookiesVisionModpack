@@ -24,7 +24,6 @@ jobs:
         with:
           namespace: ChocolateCookies
           name: Cookies Vision Utilities
-        working-directory: CVUtilities
           token: ${{ secrets.TS_KEY }}
           description: |
             Some patches for the Cookie's Vision Modpack.
