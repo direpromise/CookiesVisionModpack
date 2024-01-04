@@ -4,8 +4,8 @@
   "website_url": "",
   "description": "[v45] A Lethal Company overhauled experience that reshapes the game to what it should be.",
   "dependencies": [
-    "ChocolateCookies-Cookies_Vision_Utilities-1.0.4",
+    "ChocolateCookies-Cookies_Vision_Utilities-1.0.5",
     "ChocolateCookies-CookiesCOSMETICS-1.0.3",
-    "ChocolateCookies-CookiesBODY-1.0.2"
+    "ChocolateCookies-CookiesBODY-1.0.3"
   ]
 }
