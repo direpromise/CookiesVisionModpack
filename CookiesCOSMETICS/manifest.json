@@ -1,6 +1,6 @@
 {
   "name": "CookiesCOSMETICS",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
   "description": "A Cosmetic component for Cookies Vision Modpack, please do not download independently!",
   "dependencies": [
@@ -13,6 +13,8 @@
     "ViViKo-SantaSuit-1.0.3",
     "PuffyMods-Beekeeper_Suit-1.1.0",
     "Dunn-HEV_Suit-1.2.0",
-    "Crab_imitation-Space_Pajamas_Suit-1.0.6"
+    "Crab_imitation-Space_Pajamas_Suit-1.0.6",
+    "Flamango-OmniMan_Base_Suits-1.0.0",
+    "CHILLAX-Chillax_Suits-1.12.1"
   ]
 }
