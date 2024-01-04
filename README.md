@@ -9,6 +9,7 @@ Welcome to **Cookies Vision**, an extensive modpack for Lethal Company! This col
 
 ## 🌟 Features
 
+- **Smart Lobby Name Identifer:** In the lobby search menu, all CookiesVision users will have their lobbies automatically tagged with the tag: [CookiesVision], or [CV] this allows for players to know you're using the CookiesVision modpack!
 - **100+ Mods:** A rich assortment of mods curated to bring an enriched and diverse gameplay experience.
 - **Quality of Life Updates:** Enhancements and optimizations for a smoother and more enjoyable playthrough.
 - **New Monsters:** Encounter and challenge yourself against a variety of new creatures and adversaries.

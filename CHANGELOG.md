@@ -1,3 +1,10 @@
+# Cookies Vision 2.1.4
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Added forgotten Emotes c:
+- Added TooManyEmotes
+- Added Better Emotes
+- Removed Boombox Controller
 # Cookies Vision 2.1.3
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
