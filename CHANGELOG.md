@@ -1,3 +1,10 @@
+# Cookies Vision 2.1.5
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated MaskedEnemyOverhaul
+- Updated Replaced BetterEmotes with MoreEmotes
+- Updated config files and ensured stability, this will probably be the last minor update for a while (unless something happens).
+
 # Cookies Vision 2.1.4
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
@@ -5,6 +12,7 @@ An update to Cookie's Vision Modpack has been released. The update will be appli
 - Added TooManyEmotes
 - Added Better Emotes
 - Removed Boombox Controller
+
 # Cookies Vision 2.1.3
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
@@ -33,7 +41,6 @@ An update to Cookie's Vision Modpack has been released. The update will be appli
 - Removed FlashlightFix (Advanced fixes issues with FL)
 - Removed PestControl (possible conflict with Coomfy)
 - Removed LCAPI (Credits to ruru on DC.)
-
 
 # Cookies Vision 2.1.2
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
