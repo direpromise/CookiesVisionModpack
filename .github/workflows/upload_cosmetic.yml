@@ -18,7 +18,7 @@ jobs:
         run: |
           sudo apt-get install zip
           cd CookiesCOSMETICS
-          zip -r ../CookiesCOSMETICS.zip icon.png manifest.json README.md README.md
+          zip -r ../CookiesCOSMETICS.zip icon.png manifest.json README.md CHANGELOG.md
       - id: pub
         uses: ./
         with:

@@ -1,9 +1,9 @@
-name: Upload Prebuilt Zip (Body)
+name: Upload Prebuilt Zip (Moons/Dungeons)
 
 on:
   push:
     paths:
-      - 'CookiesBODY/**'
+      - 'CookiesMOONS/**'
   pull_request:
     branches:
       - main
@@ -14,19 +14,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Create CookiesBODY Zip
+      - name: Create CookiesMOONS Zip
         run: |
           sudo apt-get install zip
-          cd CookiesBODY
-          zip -r ../CookiesBODY.zip icon.png manifest.json README.md CHANGELOG.md
+          cd CookiesMOONS
+          zip -r ../CookiesMOONS.zip icon.png manifest.json README.md CHANGELOG.md
       - id: pub
         uses: ./
         with:
           namespace: ChocolateCookies
-          name: CookiesBODY
+          name: CookiesMOONS
           token: ${{ secrets.TS_KEY }}
           description: |
-            A Lethal Company Core Component for Cookies Vision Modpack, please do not download independently.
+            A Moons & Dungeons component for Cookies Vision Modpack, please do not download independently!
           version: v1.${{ github.run_number }}.0
           community: lethal-company
           repo: thunderstore.io
@@ -47,6 +47,6 @@ jobs:
             bepinex
           # Check the correct format for dependencies in Thunderstore
           deps: |
-            ChocolateCookies-CookiesBODY-1.${{ github.run_number }}.0
-          file: ./CookiesBODY.zip
+            ChocolateCookies-CookiesMOONS-1.${{ github.run_number }}.0
+          file: ./CookiesMOONS.zip
       - run: echo ${{ steps.pub.outputs.url }}
