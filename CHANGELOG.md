@@ -1,3 +1,33 @@
+# Cookies Vision 2.1.3
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Added LethalAutocomplete
+- Added Permanent Ladder
+- Added SnapRotateFurniture
+- Added LCSprayFix
+- Added FPSSpectate
+- Added VoiceHUD
+- Added Touchscreen
+- Added ChillaxSCRAPS
+- Added NiceChat
+- Added GamblingMachineAtTheCompany
+- Added EladsHUD
+- Added SellBodies
+- Added Immersive_Visor (BETA)
+- Added OmniMan_Base_Suits
+- Added Chillax_Suits
+- Updated config files
+- Updated MirrorDecor
+- Updated BetterSpec
+- Updated BoomBoxController
+- Removed HealthMetrics
+- Removed FixCentipedeLag
+- Removed TerminalClock
+- Removed FlashlightFix (Advanced fixes issues with FL)
+- Removed PestControl (possible conflict with Coomfy)
+- Removed LCAPI (Credits to ruru on DC.)
+
+
 # Cookies Vision 2.1.2
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
