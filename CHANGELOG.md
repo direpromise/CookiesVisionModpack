@@ -1,3 +1,23 @@
+# Cookies Vision 2.1.6
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated config files
+- Updated LethalRichPresence
+- Updated DetailedScan
+- Updated FairAI
+- Updated TerminalAPI
+- Updated CompanyBuildingEnhancements
+- Updated Mimics
+- Updated AlwaysHearActiveWalkies
+- Updated NeedyCats
+- Updated MaskedEnemyOverhaul
+- Updated CrossHair
+- Updated FasterItemDropship
+- Updated Immersive_Visor
+- Updated LethalAutocomplete
+- Updated LCSprayFix
+
+
 # Cookies Vision 2.1.5
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
