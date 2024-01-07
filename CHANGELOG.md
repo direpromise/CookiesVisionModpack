@@ -6,7 +6,7 @@ An update to Cookie's Vision Modpack has been released. The update will be appli
 - Updated FairAI (Fixed bug relating to Turrets)
 - Updated OuijaBoard
 - Updated LCSprayFix
-- Updated NiceChat
+- Updated NiceChat.
 
 # Cookies Vision 2.1.6
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
