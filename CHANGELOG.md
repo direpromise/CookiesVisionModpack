@@ -1,3 +1,25 @@
+# Cookies Vision 2.1.9
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Removed LC_Masked_Fix (fixed in v47)
+- Various fixes.
+- Updated Icon
+- Updated README.md
+- Updated BetterLightning
+- Updated GamblingMachineAtTheCompany
+- Updated Skinwalkers
+- Updated darmuhsTerminalStuff
+- Updated AdvancedCompany
+- Updated TooManyEmotes
+- Updated CorporateRestructure
+- Updated IntroTweaks
+- Updated Lategame_Upgrades
+- Updated FairAI
+- Updated SpectateEnemies
+- Updated Scoopys_Variety_Mod
+- Updated CozyImprovements
+- Updated Diversity
+
 # Cookies Vision 2.1.8
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
