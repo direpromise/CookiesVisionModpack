@@ -1,14 +1,15 @@
 {
   "name": "CookiesMOONS",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
-  "description": "A Moons & Dungeons component for Cookies Vision Modpack, please do not download independently!",
+  "description": "🍪 A Moons & Dungeons component for Cookies Vision Modpack, you can download this alongside CookiesVision 🍪",
   "dependencies": [
     "Evaisa-HookGenPatcher-0.0.5",
     "BepInEx-BepInExPack-5.4.2100",
     "Evaisa-LethalLib-0.10.1",
-    "scoopy-Scoopys_Variety_Mod-0.5.1",
+    "scoopy-Scoopys_Variety_Mod-0.6.1",
     "Badham_Mods-SCPFoundationDungeon-1.4.1",
-    "Coomfy-CoomfyDungeon-1.0.12"
+    "Coomfy-CoomfyDungeon-1.0.12",
+    "IAmBatby-LethalLevelLoader-1.0.3"
   ]
 }

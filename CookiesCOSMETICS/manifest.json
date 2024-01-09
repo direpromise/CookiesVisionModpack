@@ -1,8 +1,8 @@
 {
   "name": "CookiesCOSMETICS",
-  "version_number": "1.0.5",
+  "version_number": "1.0.6",
   "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
-  "description": "A Cosmetic component for Cookies Vision Modpack, please do not download independently!",
+  "description": "🍪 A Cosmetic component for Cookies Vision Modpack, please do not download independently! 🍪",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "x753-More_Suits-1.4.1",
@@ -16,7 +16,7 @@
     "Crab_imitation-Space_Pajamas_Suit-1.0.6",
     "Flamango-OmniMan_Base_Suits-1.0.0",
     "CHILLAX-Chillax_Suits-1.12.1",
-    "FlipMods-TooManyEmotes-1.7.6",
+    "FlipMods-TooManyEmotes-1.7.7",
     "Rune580-LethalCompany_InputUtils-0.4.4",
     "Sligili-More_Emotes-1.2.2"
   ]

@@ -32,4 +32,6 @@ Welcome to **Cookies Vision**, an extensive modpack for Lethal Company! This col
 
 If you experience a major bug, please try to do a fresh install of the modpack, some configs might get broken after a major release/update.
 
+^ OR: delete your old config folder, and let the modpack update, launch the game for the first time, and let it write new updated config files.
+
 For inquiries, suggestions, or assistance, feel free to use our via [Github](https://github.com/direpromise/CookiesVisionModpack) repository.
