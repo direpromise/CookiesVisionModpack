@@ -1,3 +1,20 @@
+# Cookies Vision 2.1.8
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Support for v47.
+- Updated EnhancedRadarBooster
+- Updated LethalRichPresence
+- Updated EladsHUD
+- Updated Skinwalkers
+- Updated LogNeuter
+- Updated MaskedEnemyOverhaul
+- Updated Better_Lobbies
+- Updated Mimics
+- Updated CompanyBuildingEnhancements
+- Updated TooManyEmotes
+- Updated SuitSaver
+- Updated MirrorDecor
+
 # Cookies Vision 2.1.7
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
