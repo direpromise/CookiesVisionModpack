@@ -1,3 +1,24 @@
+# Cookies Vision 2.2.0
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Support for v49.
+- Updated config files.
+- Added LC_Masked_Fix again. (fixes new issue relating to Mimics)
+- Added PlushiesPlus
+- Added LethalExpansion
+- Removed LCSprayFix (fixed in v47)
+- Updated GamblingMachineAtTheCompany
+- Updated LC_Masked_Fix
+- Updated LCBetterSaves
+- Updated darmuhsTerminalStuff
+- Updated AdvancedCompany
+- Updated Lategame_Upgrades
+- Updated LethalLib
+- Updated SpectateEnemies
+- Updated BetterSpec
+- Updated EnhancedRadarBooster
+- Updated Diversity
+
 # Cookies Vision 2.1.9
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
