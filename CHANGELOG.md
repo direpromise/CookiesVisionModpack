@@ -1,3 +1,13 @@
+# Cookies Vision 2.2.1
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated LethalExpansion
+- Updated AdvancedCompany
+- Updated Skinwalkers
+- Updated LethalLib
+- Updated EnhancedRadarBooster
+
+
 # Cookies Vision 2.2.0
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
