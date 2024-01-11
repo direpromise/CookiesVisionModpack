@@ -1,3 +1,11 @@
+# Cookies Vision 2.2.2
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated config files
+- Added CookiesSounds
+- Fixed some audio related issues.
+
+
 # Cookies Vision 2.2.1
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
