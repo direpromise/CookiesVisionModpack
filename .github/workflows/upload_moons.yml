@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  test:
+  handleMoons:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
