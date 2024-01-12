@@ -7,6 +7,9 @@ Welcome to **Cookies Vision**, an extensive modpack for Lethal Company! This col
 
 
 
+[<img src="https://i.imgur.com/Uv9Djbw.png" alt="Discord Server">](https://discord.gg/7r7RBpybVK)
+
+
 ## 🌟 Features
 
 - **Smart Lobby Name Identifer:** In the lobby search menu, all CookiesVision users will have their lobbies automatically tagged with the tag: [CookiesVision], or [CV] this allows for players to know you're using the CookiesVision modpack!
@@ -34,4 +37,4 @@ If you experience a major bug, please try to do a fresh install of the modpack, 
 
 ^ OR: delete your old config folder, and let the modpack update, launch the game for the first time, and let it write new updated config files.
 
-For inquiries, suggestions, or assistance, feel free to use our via [Github](https://github.com/direpromise/CookiesVisionModpack) repository.
+For inquiries, suggestions, or assistance, feel free to use our [Github repository](https://github.com/direpromise/CookiesVisionModpack) or [our Discord Server](https://discord.gg/7r7RBpybV.

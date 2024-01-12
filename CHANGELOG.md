@@ -1,12 +1,19 @@
+# Cookies Vision 2.2.4
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated README.md
+- New Discord!
+
 # Cookies Vision 2.2.3
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-Added GoldenShovel - an epic Australium/Golden Shovel purchasable for 400 Credits, or obtainable entirely for free!
-Updated LethalThings
-Updated CompanyBuildingEnhancements
-Updated AdvancedCompany
-Updated IntroTweaks
-Updated LethalLib
+
+- Added GoldenShovel - an epic Australium/Golden Shovel purchasable for 400 Credits, or obtainable entirely for free!
+- Updated LethalThings
+- Updated CompanyBuildingEnhancements
+- Updated AdvancedCompany
+- Updated IntroTweaks
+- Updated LethalLib
 
 # Cookies Vision 2.2.2
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
