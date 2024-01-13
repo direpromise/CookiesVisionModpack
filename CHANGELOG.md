@@ -1,3 +1,46 @@
+# Cookies Vision 2.2.5
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated config files
+- Added EnhancedLockpicker
+- Added FacilityMeltdown
+- Added LethalModManager
+- Added LCAmmoCheck
+- Added VanillaContentExpansion
+- Added FixRPCLag
+- Added MoreBlood
+- Added BunkbedRevive
+- Added BuffedPresents
+- Added AEIOUCompany
+- Added ShootableMouthDogs
+- Added BetterMonitor
+- Added JesterStompShake
+- Added CollectYourDead
+- Adding CookiesMOONS Package (Next update)
+- Added TakeThatMaskOff by SillySquad
+- Actually Added GoldenShovel this time ;-;
+- Updated More_Emotes
+- Updated TooManyEmotes
+- Updated LethalCompany_InputUtils
+- Updated CookiesSounds
+- Updated LethalExpansion
+- Updated GamblingMachineAtTheCompany
+- Updated LethalThings
+- Updated BuyableShotgunShells
+- Updated Better_Lobbies
+- Updated LethalLib
+- Updated GhostCodes
+- Updated AdvancedCompany
+- Updated Skinwalkers
+- Removed FPSSpectate
+- Removed DoorFix
+- Removed DissonanceLagFix
+- Removed HackPad
+- Removed CompatabilityChecker
+- Removed SellBodies
+- Removed LethalSettings
+- Fixed bug related to Skinwalkers
+
 # Cookies Vision 2.2.4
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
