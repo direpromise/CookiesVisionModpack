@@ -1,3 +1,15 @@
+# Cookies Vision 2.2.6
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated BetterLadders
+- Updated LethalCompany_InputUtils
+- Updated MaskedEnemyOverhaul
+- Updated LethalUtilities
+- Updated BunkbedRevive
+- Updated Skinwalkers
+- Removed Lockdown
+- Removed ScalingStartCredits
+
 # Cookies Vision 2.2.5
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
