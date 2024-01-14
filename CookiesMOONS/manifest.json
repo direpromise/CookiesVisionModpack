@@ -2,7 +2,7 @@
   "name": "CookiesMOONS",
   "version_number": "1.0.4",
   "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
-  "description": "🍪 A Moons & Dungeons component for Cookies Vision Modpack, you can download this alongside CookiesVision 🍪",
+  "description": "🍪 A Moons & Dungeons component for Cookies Vision Modpack, you can download this alongside CookiesVision, or any other modpack! it's designed to work with any modpack 🍪",
   "dependencies": [
     "Evaisa-HookGenPatcher-0.0.5",
     "BepInEx-BepInExPack-5.4.2100",
