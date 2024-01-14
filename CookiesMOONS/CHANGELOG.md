@@ -1,3 +1,8 @@
+# Cookies Moons 1.0.5
+
+- Updated README.md
+- Updated icon.png
+
 # Cookies Moons 1.0.4
 
 - Changes will be shown here until Moons is fully integrated into the [Main Modpack.](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
