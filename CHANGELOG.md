@@ -1,3 +1,13 @@
+# Cookies Vision 2.2.7
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Moving some mods from COSMETICS to BODY to intergrate BODY into a VR modpack
+- Moved TooManyEmotes to BODY
+- Moved More_Emotes to BODY
+- Updated CookiesSounds
+- Updated LethalCompany_InputUtils
+- Updated LethalLib
+
 # Cookies Vision 2.2.6
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
