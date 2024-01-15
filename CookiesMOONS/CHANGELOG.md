@@ -1,3 +1,11 @@
+# Cookies Moons 1.0.6
+
+- Updated LethalLib
+- Updated Starlancer
+- Updated Acidir
+- Updated Orion
+- Updated Infernis
+
 # Cookies Moons 1.0.5
 
 - Updated README.md
