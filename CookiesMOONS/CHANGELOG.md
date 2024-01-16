@@ -1,3 +1,12 @@
+# <span style="color:#d79ff5">Cookies Moons 1.0.8</span>
+
+- Introduced config files
+- Decreased % chances of the Scoopys_Variety_Mod dungeon
+- Increased % chances of the SCPFoundationDungeon
+- Updated StarlancerMoons
+- Updated Aquatis
+- Updated SCPFoundationDungeon
+
 # <span style="color:#d79ff5">Cookies Moons 1.0.7</span>
 
 - <span style="color:lime">Added</span> Etern
