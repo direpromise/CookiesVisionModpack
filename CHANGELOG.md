@@ -3,10 +3,14 @@ An update to Cookie's Vision Modpack has been released. The update will be appli
 
 - Now all of our CHANGELOG.md & README.md will be syntaxed with beautiful colors! Coloring will involve formatting such as: <span style="color:red">Removed</span>, <span style="color:yellow">Renamed</span>, <span style="color:cyan">Updated</span> & <span style="color:lime">Added.</span> 
 - <span style="color:lime">Added.</span> CompanyCreatures
+- <span style="color:cyan">Updated</span> README.md
+- <span style="color:cyan">Updated</span> CHANGELOG.md
 - <span style="color:cyan">Updated</span> TooManyEmotes
 - <span style="color:cyan">Updated</span> FacilityMeltdown
+- <span style="color:cyan">Updated</span> OuijaBoard
 - <span style="color:cyan">Updated</span> LethalUtilities
 - <span style="color:cyan">Updated</span> VanillaContentExpansion
+- <span style="color:cyan">Updated</span> TakeThatMaskOff
 - <span style="color:cyan">Updated</span> BetterLadders
 - <span style="color:cyan">Updated</span> GoldenShovel
 - <span style="color:cyan">Updated</span> AdvancedCompany
