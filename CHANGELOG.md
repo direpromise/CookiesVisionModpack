@@ -1,409 +1,415 @@
-# Cookies Vision 2.2.7
+# <span style="color:orange">Cookies Vision 2.2.8</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Moving some mods from COSMETICS to BODY to intergrate BODY into a VR modpack
+- Now all of our CHANGELOG.md & README.md will be syntaxed with beautiful colors! Coloring will involve formatting such as: <span style="color:red">Removed</span>, <span style="color:yellow">Renamed</span>, <span style="color:cyan">Updated</span> & <span style="color:lime">Added.</span> 
+- <span style="color:lime">Added.</span> CompanyCreatures
+- <span style="color:cyan">Updated</span> TooManyEmotes
+- <span style="color:cyan">Updated</span> FacilityMeltdown
+- <span style="color:cyan">Updated</span> LethalUtilities
+- <span style="color:cyan">Updated</span> VanillaContentExpansion
+- <span style="color:cyan">Updated</span> BetterLadders
+- <span style="color:cyan">Updated</span> GoldenShovel
+- <span style="color:cyan">Updated</span> AdvancedCompany
+- <span style="color:cyan">Updated</span> LCBetterSaves
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:red">Removed</span> Lategame_Upgrades
+
+-notdone
+
+# <span style="color:orange">Cookies Vision 2.2.7</span>
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Moving some mods from COSMETICS to BODY to integrate BODY into a VR modpack
 - Moved TooManyEmotes to BODY
 - Moved More_Emotes to BODY
-- Updated CookiesSounds
-- Updated LethalCompany_InputUtils
-- Updated LethalLib
+- <span style="color:cyan">Updated</span> CookiesSounds
+- <span style="color:cyan">Updated</span> LethalCompany_InputUtils
+- <span style="color:cyan">Updated</span> LethalLib
 
-# Cookies Vision 2.2.6
+# <span style="color:orange">Cookies Vision 2.2.6</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated BetterLadders
-- Updated LethalCompany_InputUtils
-- Updated MaskedEnemyOverhaul
-- Updated LethalUtilities
-- Updated BunkbedRevive
-- Updated Skinwalkers
-- Removed Lockdown
-- Removed ScalingStartCredits
+- <span style="color:cyan">Updated</span> BetterLadders
+- <span style="color:cyan">Updated</span> LethalCompany_InputUtils
+- <span style="color:cyan">Updated</span> MaskedEnemyOverhaul
+- <span style="color:cyan">Updated</span> LethalUtilities
+- <span style="color:cyan">Updated</span> BunkbedRevive
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:red">Removed</span> Lockdown
+- <span style="color:red">Removed</span> ScalingStartCredits
 
-# Cookies Vision 2.2.5
+# <span style="color:orange">Cookies Vision 2.2.5</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated config files
-- Added EnhancedLockpicker
-- Added FacilityMeltdown
-- Added LethalModManager
-- Added LCAmmoCheck
-- Added VanillaContentExpansion
-- Added FixRPCLag
-- Added MoreBlood
-- Added BunkbedRevive
-- Added BuffedPresents
-- Added AEIOUCompany
-- Added ShootableMouthDogs
-- Added BetterMonitor
-- Added JesterStompShake
-- Added CollectYourDead
+- <span style="color:cyan">Updated</span> config files
+- <span style="color:lime">Added</span> EnhancedLockpicker
+- <span style="color:lime">Added</span> FacilityMeltdown
+- <span style="color:lime">Added</span> LethalModManager
+- <span style="color:lime">Added</span> LCAmmoCheck
+- <span style="color:lime">Added</span> VanillaContentExpansion
+- <span style="color:lime">Added</span> FixRPCLag
+- <span style="color:lime">Added</span> MoreBlood
+- <span style="color:lime">Added</span> BunkbedRevive
+- <span style="color:lime">Added</span> BuffedPresents
+- <span style="color:lime">Added</span> AEIOUCompany
+- <span style="color:lime">Added</span> ShootableMouthDogs
+- <span style="color:lime">Added</span> BetterMonitor
+- <span style="color:lime">Added</span> JesterStompShake
+- <span style="color:lime">Added</span> CollectYourDead
 - Adding CookiesMOONS Package (Next update)
-- Added TakeThatMaskOff by SillySquad
-- Actually Added GoldenShovel this time ;-;
-- Updated More_Emotes
-- Updated TooManyEmotes
-- Updated LethalCompany_InputUtils
-- Updated CookiesSounds
-- Updated LethalExpansion
-- Updated GamblingMachineAtTheCompany
-- Updated LethalThings
-- Updated BuyableShotgunShells
-- Updated Better_Lobbies
-- Updated LethalLib
-- Updated GhostCodes
-- Updated AdvancedCompany
-- Updated Skinwalkers
-- Removed FPSSpectate
-- Removed DoorFix
-- Removed DissonanceLagFix
-- Removed HackPad
-- Removed CompatabilityChecker
-- Removed SellBodies
-- Removed LethalSettings
+- <span style="color:lime">Added</span> TakeThatMaskOff by SillySquad
+- Actually <span style="color:lime">Added</span> GoldenShovel this time ;-;
+- <span style="color:cyan">Updated</span> More_Emotes
+- <span style="color:cyan">Updated</span> TooManyEmotes
+- <span style="color:cyan">Updated</span> LethalCompany_InputUtils
+">Updated</span> CookiesSounds
+- <span style="color:cyan">Updated</span> LethalExpansion
+- <span style="color:cyan">Updated</span> GamblingMachineAtTheCompany
+- <span style="color:cyan">Updated</span> LethalThings
+- <span style="color:cyan">Updated</span> BuyableShotgunShells
+- <span style="color:cyan">Updated</span> Better_Lobbies
+- <span style="color:cyan">Updated</span> GhostCodes
+- <span style="color:cyan">Updated</span> AdvancedCompany
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:red">Removed</span> FPSSpectate
+- <span style="color:red">Removed</span> DoorFix
+- <span style="color:red">Removed</span> DissonanceLagFix
+- <span style="color:red">Removed</span> HackPad
+- <span style="color:red">Removed</span> CompatabilityChecker
+- <span style="color:red">Removed</span> SellBodies
+- <span style="color:red">Removed</span> LethalSettings
 - Fixed bug related to Skinwalkers
 
-# Cookies Vision 2.2.4
+# <span style="color:orange">Cookies Vision 2.2.4</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated README.md
-- New Discord!
+- <span style="color:cyan">Updated</span> README.md
+- <span style="color:lime">New Discord!</span>
 
-# Cookies Vision 2.2.3
+# <span style="color:orange">Cookies Vision 2.2.3</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
+- <span style="color:lime">Added</span> GoldenShovel - an epic Australium/Golden Shovel purchasable for 400 Credits, or obtainable entirely for free!
+- <span style="color:cyan">Updated</span> LethalThings
+- <span style="color:cyan">Updated</span> CompanyBuildingEnhancements
+- <span style="color:cyan">Updated</span> AdvancedCompany
+- <span style="color:cyan">Updated</span> IntroTweaks
+- <span style="color:cyan">Updated</span> LethalLib
 
-- Added GoldenShovel - an epic Australium/Golden Shovel purchasable for 400 Credits, or obtainable entirely for free!
-- Updated LethalThings
-- Updated CompanyBuildingEnhancements
-- Updated AdvancedCompany
-- Updated IntroTweaks
-- Updated LethalLib
-
-# Cookies Vision 2.2.2
+# <span style="color:orange">Cookies Vision 2.2.2</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated config files
-- Added CookiesSounds
-- Fixed some audio related issues.
+- <span style="color:cyan">Updated</span> config files
+- <span style="color:lime">Added</span> CookiesSounds
+- Fixed some audio-related issues.
 
-
-# Cookies Vision 2.2.1
+# <span style="color:orange">Cookies Vision 2.2.1</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated LethalExpansion
-- Updated AdvancedCompany
-- Updated Skinwalkers
-- Updated LethalLib
-- Updated EnhancedRadarBooster
+- <span style="color:cyan">Updated</span> LethalExpansion
+- <span style="color:cyan">Updated</span> AdvancedCompany
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:cyan">Updated</span> LethalLib
+- <span style="color:cyan">Updated</span> EnhancedRadarBooster
 
-
-# Cookies Vision 2.2.0
+# <span style="color:orange">Cookies Vision 2.2.0</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
 - Support for v49.
-- Updated config files.
-- Added LC_Masked_Fix again. (fixes new issue relating to Mimics)
-- Added PlushiesPlus
-- Added LethalExpansion
-- Removed LCSprayFix (fixed in v47)
-- Updated GamblingMachineAtTheCompany
-- Updated LC_Masked_Fix
-- Updated LCBetterSaves
-- Updated darmuhsTerminalStuff
-- Updated AdvancedCompany
-- Updated Lategame_Upgrades
-- Updated LethalLib
-- Updated SpectateEnemies
-- Updated BetterSpec
-- Updated EnhancedRadarBooster
-- Updated Diversity
+- <span style="color:cyan">Updated</span> config files.
+- <span style="color:lime">Added</span> LC_Masked_Fix again. (fixes new issue relating to Mimics)
+- <span style="color:lime">Added</span> PlushiesPlus
+- <span style="color:red">Removed</span> LCSprayFix (fixed in v47)
+- <span style="color:cyan">Updated</span> GamblingMachineAtTheCompany
+- <span style="color:cyan">Updated</span> LC_Masked_Fix
+- <span style="color:cyan">Updated</span> LCBetterSaves
+- <span style="color:cyan">Updated</span> darmuhsTerminalStuff
+- <span style="color:cyan">Updated</span> AdvancedCompany
+- <span style="color:cyan">Updated</span> Lategame_Upgrades
+- <span style="color:cyan">Updated</span> LethalLib
+- <span style="color:cyan">Updated</span> SpectateEnemies
+- <span style="color:cyan">Updated</span> BetterSpec
+- <span style="color:cyan">Updated</span> EnhancedRadarBooster
+- <span style="color:cyan">Updated</span> Diversity
 
-# Cookies Vision 2.1.9
+# <span style="color:orange">Cookies Vision 2.1.9</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Removed LC_Masked_Fix (fixed in v47)
+- <span style="color:red">Removed</span> LC_Masked_Fix (fixed in v47)
 - Various fixes.
-- Updated Icon
-- Updated README.md
-- Updated BetterLightning
-- Updated GamblingMachineAtTheCompany
-- Updated Skinwalkers
-- Updated darmuhsTerminalStuff
-- Updated AdvancedCompany
-- Updated TooManyEmotes
-- Updated CorporateRestructure
-- Updated IntroTweaks
-- Updated Lategame_Upgrades
-- Updated FairAI
-- Updated SpectateEnemies
-- Updated Scoopys_Variety_Mod
-- Updated CozyImprovements
-- Updated Diversity
+- <span style="color:cyan">Updated</span> Icon
+- <span style="color:cyan">Updated</span> README.md
+- <span style="color:cyan">Updated</span> BetterLightning
+- <span style="color:cyan">Updated</span> GamblingMachineAtTheCompany
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:cyan">Updated</span> darmuhsTerminalStuff
+- <span style="color:cyan">Updated</span> AdvancedCompany
+- <span style="color:cyan">Updated</span> TooManyEmotes
+- <span style="color:cyan">Updated</span> CorporateRestructure
+- <span style="color:cyan">Updated</span> IntroTweaks
+- <span style="color:cyan">Updated</span> Lategame_Upgrades
+- <span style="color:cyan">Updated</span> FairAI
+- <span style="color:cyan">Updated</span> SpectateEnemies
+- <span style="color:cyan">Updated</span> Scoopys_Variety_Mod
+- <span style="color:cyan">Updated</span> CozyImprovements
+- <span style="color:cyan">Updated</span> Diversity
 
-# Cookies Vision 2.1.8
+# <span style="color:orange">Cookies Vision 2.1.8</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
 - Support for v47.
-- Updated EnhancedRadarBooster
-- Updated LethalRichPresence
-- Updated EladsHUD
-- Updated Skinwalkers
-- Updated LogNeuter
-- Updated MaskedEnemyOverhaul
-- Updated Better_Lobbies
-- Updated Mimics
-- Updated CompanyBuildingEnhancements
-- Updated TooManyEmotes
-- Updated SuitSaver
-- Updated MirrorDecor
+- <span style="color:cyan">Updated</span> EnhancedRadarBooster
+- <span style="color:cyan">Updated</span> LethalRichPresence
+- <span style="color:cyan">Updated</span> EladsHUD
+- <span style="color:cyan">Updated</span> Skinwalkers
+- <span style="color:cyan">Updated</span> LogNeuter
+- <span style="color:cyan">Updated</span> MaskedEnemyOverhaul
+- <span style="color:cyan">Updated</span> Better_Lobbies
+- <span style="color:cyan">Updated</span> Mimics
+- <span style="color:cyan">Updated</span> CompanyBuildingEnhancements
+- <span style="color:cyan">Updated</span> TooManyEmotes
+- <span style="color:cyan">Updated</span> SuitSaver
+- <span style="color:cyan">Updated</span> MirrorDecor
 
-# Cookies Vision 2.1.7
+# <span style="color:orange">Cookies Vision 2.1.7</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated EnhancedRadarBooster
-- Updated LethalRegeneration
-- Updated FairAI (Fixed bug relating to Turrets)
-- Updated OuijaBoard
-- Updated LCSprayFix
-- Updated NiceChat.
+- <span style="color:cyan">Updated</span> EnhancedRadarBooster
+- <span style="color:cyan">Updated</span> LethalRegeneration
+- <span style="color:cyan">Updated</span> FairAI (Fixed bug relating to Turrets)
+- <span style="color:cyan">Updated</span> OuijaBoard
+- <span style="color:cyan">Updated</span> LCSprayFix
+- <span style="color:cyan">Updated</span> NiceChat.
 
-# Cookies Vision 2.1.6
+# <span style="color:orange">Cookies Vision 2.1.6</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated config files
-- Updated LethalRichPresence
-- Updated DetailedScan
-- Updated FairAI
-- Updated TerminalAPI
-- Updated CompanyBuildingEnhancements
-- Updated Mimics
-- Updated AlwaysHearActiveWalkies
-- Updated NeedyCats
-- Updated MaskedEnemyOverhaul
-- Updated CrossHair
-- Updated FasterItemDropship
-- Updated Immersive_Visor
-- Updated LethalAutocomplete
-- Updated LCSprayFix
+- <span style="color:cyan">Updated</span> config files
+- <span style="color:cyan">Updated</span> LethalRichPresence
+- <span style="color:cyan">Updated</span> DetailedScan
+- <span style="color:cyan">Updated</span> FairAI
+- <span style="color:cyan">Updated</span> TerminalAPI
+- <span style="color:cyan">Updated</span> CompanyBuildingEnhancements
+- <span style="color:cyan">Updated</span> Mimics
+- <span style="color:cyan">Updated</span> AlwaysHearActiveWalkies
+- <span style="color:cyan">Updated</span> NeedyCats
+- <span style="color:cyan">Updated</span> MaskedEnemyOverhaul
+- <span style="color:cyan">Updated</span> CrossHair
+- <span style="color:cyan">Updated</span> FasterItemDropship
+- <span style="color:cyan">Updated</span> Immersive_Visor
+- <span style="color:cyan">Updated</span> LethalAutocomplete
+- <span style="color:cyan">Updated</span> LCSprayFix
 
-
-# Cookies Vision 2.1.5
+# <span style="color:orange">Cookies Vision 2.1.5</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated MaskedEnemyOverhaul
-- Updated Replaced BetterEmotes with MoreEmotes
-- Updated config files and ensured stability, this will probably be the last minor update for a while (unless something happens).
+- <span style="color:cyan">Updated</span> MaskedEnemyOverhaul
+- <span style="color:cyan">Updated</span> Replaced BetterEmotes with MoreEmotes
+- <span style="color:cyan">Updated</span> config files and ensured stability, this will probably be the last minor update for a while (unless something happens).
 
-# Cookies Vision 2.1.4
+# <span style="color:orange">Cookies Vision 2.1.4</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Added forgotten Emotes c:
-- Added TooManyEmotes
-- Added Better Emotes
-- Removed Boombox Controller
+- <span style="color:lime">Added</span> forgotten Emotes c:
+- <span style="color:lime">Added</span> TooManyEmotes
+- <span style="color:lime">Added</span> Better Emotes
+- <span style="color:red">Removed</span> Boombox Controller
 
-# Cookies Vision 2.1.3
+# <span style="color:orange">Cookies Vision 2.1.3</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Added LethalAutocomplete
-- Added Permanent Ladder
-- Added SnapRotateFurniture
-- Added LCSprayFix
-- Added FPSSpectate
-- Added VoiceHUD
-- Added Touchscreen
-- Added ChillaxSCRAPS
-- Added NiceChat
-- Added GamblingMachineAtTheCompany
-- Added EladsHUD
-- Added SellBodies
-- Added Immersive_Visor (BETA)
-- Added OmniMan_Base_Suits
-- Added Chillax_Suits
-- Updated config files
-- Updated MirrorDecor
-- Updated BetterSpec
-- Updated BoomBoxController
-- Removed HealthMetrics
-- Removed FixCentipedeLag
-- Removed TerminalClock
-- Removed FlashlightFix (Advanced fixes issues with FL)
-- Removed PestControl (possible conflict with Coomfy)
-- Removed LCAPI (Credits to ruru on DC.)
+- <span style="color:lime">Added</span> LethalAutocomplete
+- <span style="color:lime">Added</span> Permanent Ladder
+- <span style="color:lime">Added</span> SnapRotateFurniture
+- <span style="color:lime">Added</span> LCSprayFix
+- <span style="color:lime">Added</span> FPSSpectate
+- <span style="color:lime">Added</span> VoiceHUD
+- <span style="color:lime">Added</span> Touchscreen
+- <span style="color:lime">Added</span> ChillaxSCRAPS
+- <span style="color:lime">Added</span> NiceChat
+- <span style="color:lime">Added</span> GamblingMachineAtTheCompany
+- <span style="color:lime">Added</span> EladsHUD
+- <span style="color:lime">Added</span> SellBodies
+- <span style="color:lime">Added</span> Immersive_Visor (BETA)
+- <span style="color:lime">Added</span> OmniMan_Base_Suits
+- <span style="color:lime">Added</span> Chillax_Suits
+- <span style="color:cyan">Updated</span> config files
+- <span style="color:cyan">Updated</span> MirrorDecor
+- <span style="color:cyan">Updated</span> BetterSpec
+- <span style="color:cyan">Updated</span> BoomBoxController
+- <span style="color:red">Removed</span> HealthMetrics
+- <span style="color:red">Removed</span> FixCentipedeLag
+- <span style="color:red">Removed</span> TerminalClock
+- <span style="color:red">Removed</span> FlashlightFix (Advanced fixes issues with FL)
+- <span style="color:red">Removed</span> PestControl (possible conflict with Coomfy)
+- <span style="color:red">Removed</span> LCAPI (Credits to ruru on DC.)
 
-# Cookies Vision 2.1.2
+# <span style="color:orange">Cookies Vision 2.1.2</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated TooManySuits.
-- Updated EnhancedTZP
-- Updated Diversity
-- Updated CozyImprovements
-- Updated LethalRichPresence
-- Updated BetterLadders
-- Updated SpectateEnemies
-- Updated BetterSpec
-- Updated DetailedScan
-- Added Space Pajamas Suit.
-- Added CoomfyDungeon.
+- <span style="color:cyan">Updated</span> TooManySuits.
+- <span style="color:cyan">Updated</span> EnhancedTZP
+- <span style="color:cyan">Updated</span> Diversity
+- <span style="color:cyan">Updated</span> CozyImprovements
+- <span style="color:cyan">Updated</span> LethalRichPresence
+- <span style="color:cyan">Updated</span> BetterLadders
+- <span style="color:cyan">Updated</span> SpectateEnemies
+- <span style="color:cyan">Updated</span> BetterSpec
+- <span style="color:cyan">Updated</span> DetailedScan
+- <span style="color:lime">Added</span> Space Pajamas Suit.
+- <span style="color:lime">Added</span> CoomfyDungeon.
 
-# Cookies Vision 2.1.1
+# <span style="color:orange">Cookies Vision 2.1.1</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Fixed a problem (:
+- <span style="color:lime">Fixed a problem (: </span>
 
-# Cookies Vision 2.1.0
+# <span style="color:orange">Cookies Vision 2.1.0</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Added more config files.
-- Added VoiceHUD
-- Added SellTracker
-- Added Disregard_Early_Voting
-- Added MoreScreams
-- Added PintoBoy
-- Added LethalAutocomplete
-- Added EladsHUD
-- Added GamblingMachineAtTheCompany
-- Added PushCompany
-- Added MoreItems
-- Added QuotaRollover
-- Added Santa Suit
-- Added Beekeeper Suit
-- Added HEV Suit
-- Updated DetailedScan
-- Updated Diversity
-- Updated DetailedScan
-- Updated FastSwitchPlayerViewInRadar
+- <span style="color:cyan">Added</span> more config files.
+- <span style="color:lime">Added</span> VoiceHUD
+- <span style="color:lime">Added</span> SellTracker
+- <span style="color:lime">Added</span> Disregard_Early_Voting
+- <span style="color:lime">Added</span> MoreScreams
+- <span style="color:lime">Added</span> PintoBoy
+- <span style="color:lime">Added</span> LethalAutocomplete
+- <span style="color:lime">Added</span> EladsHUD
+- <span style="color:lime">Added</span> GamblingMachineAtTheCompany
+- <span style="color:lime">Added</span> PushCompany
+- <span style="color:lime">Added</span> MoreItems
+- <span style="color:lime">Added</span> QuotaRollover
+- <span style="color:lime">Added</span> Santa Suit
+- <span style="color:lime">Added</span> Beekeeper Suit
+- <span style="color:lime">Added</span> HEV Suit
+- <span style="color:cyan">Updated</span> DetailedScan
+- <span style="color:cyan">Updated</span> Diversity
+- <span style="color:cyan">Updated</span> DetailedScan
+- <span style="color:cyan">Updated</span> FastSwitchPlayerViewInRadar
 - Completely overhauled the structure of the modpack to better it, credits to TheMostLethalCompany Modpack for the concept.
-- Removed a bunch of suits.
-- Removed ModelReplacementAPI
+- <span style="color:red">Removed</span> a bunch of suits.
+- <span style="color:red">Removed</span> ModelReplacementAPI
 
-# Cookies Vision 2.0.9
+# <span style="color:orange">Cookies Vision 2.0.9</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated CozyImprovements.
-- Updated Diversity.
-- Updated README.md
-- Added/Updated Patchers.
-- Added Modpack Utilities.
+- <span style="color:cyan">Updated</span> CozyImprovements.
+- <span style="color:cyan">Updated</span> Diversity.
+- <span style="color:cyan">Updated</span> README.md
+- <span style="color:lime">Added/Updated</span> Patchers.
+- <span style="color:lime">Added</span> Modpack Utilities.
 
-# Cookies Vision 2.0.8
-
+# <span style="color:orange">Cookies Vision 2.0.8</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Added Optional Suits Store Overhaul (makes all suits purchasable in the store, off by default)
+- <span style="color:lime">Added</span> Optional Suits Store Overhaul (makes all suits purchasable in the store, off by default)
 
-# Cookies Vision 2.0.7
-
+# <span style="color:orange">Cookies Vision 2.0.7</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
 - **NOTE:** Please ⚠ REINSTALL MODPACK FRESH AFTER VERSION 2.0.6, I AM ATTEMPTING TO FIX SUITS/STORE
-
-- Updated README.md
-- Updated config files.
+- <span style="color:cyan">Updated</span> README.md
+- <span style="color:cyan">Updated</span> config files.
 - Testing Fixes/Config(!)
 - Space Pajama Suit Patched.
--  Rust Hazmat Suit Patched.
--  VaultBoy Suit Patched.
+- Rust Hazmat Suit Patched.
+- VaultBoy Suit Patched.
 - Void Suit Patched.
--  One Piece Suits Patched.
--  Blue Archive Models Patched.
--  More Suits Patched.
+- One Piece Suits Patched.
+- Blue Archive Models Patched.
+- More Suits Patched.
 
-# Cookies Vision 2.0.6
-
+# <span style="color:orange">Cookies Vision 2.0.6</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated icon.png
-- Updated README.md
-- Updated BetterLadders
-- Updated BetterSpec
-- Updated DetailedScan
-- Updated Diversity
-- Updated LethalRichPresence
-- Updated SpectateEnemies
-- Updated EnhancedRadarBooster
-- Updated EnhancedTZP
+- <span style="color:lime">Added</span> updated icon.png
+- <span style="color:lime">Added</span> README.md
+- <span style="color:cyan">Updated</span> BetterLadders
+- <span style="color:cyan">Updated</span> BetterSpec
+- <span style="color:cyan">Updated</span> DetailedScan
+- <span style="color:cyan">Updated</span> Diversity
+- <span style="color:cyan">Updated</span> LethalRichPresence
+- <span style="color:cyan">Updated</span> SpectateEnemies
+- <span style="color:cyan">Updated</span> EnhancedRadarBooster
+- <span style="color:cyan">Updated</span> EnhancedTZP
 
-# Cookies Vision 2.0.5
-
+# <span style="color:orange">Cookies Vision 2.0.5</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated CV Utilities. (Now players that run this modpack will have their lobbies tagged as [CookiesVision], or [CV] as a prefix in the lobby selector menu!
+- <span style="color:cyan">Updated</span> CV Utilities. (Now players that run this modpack will have their lobbies tagged as [CookiesVision], or [CV] as a prefix in the lobby selector menu!
 
-
-# Cookies Vision 2.0.4
-
+# <span style="color:orange">Cookies Vision 2.0.4</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated suit files.
-- Added [Vault Boy Suit.](https://thunderstore.io/c/lethal-company/p/TeamClark/Vault_Boy_Suit/)
-- Removed [Space Pajamas Suit.](https://thunderstore.io/c/lethal-company/p/Crab_imitation/Space_Pajamas_Suit/)
-- Removed [RustHazmatSuit.](https://thunderstore.io/c/lethal-company/p/TeamClark/RustHazmatSuit/)
-- Removed [VoidSuit.](https://thunderstore.io/c/lethal-company/p/VoidNW/VoidSuit/)
-- Removed [Low Budget One Piece suits.](https://thunderstore.io/c/lethal-company/p/OnePeak/Low_Budget_One_Piece_suits/)
+- <span style="color:cyan">Updated</span> suit files.
+- <span style="color:lime">Added</span> [Vault Boy Suit.](https://thunderstore.io/c/lethal-company/p/TeamClark/Vault_Boy_Suit/)
+- <span style="color:red">Removed</span> [Space Pajamas Suit.](https://thunderstore.io/c/lethal-company/p/Crab_imitation/Space_Pajamas_Suit/)
+- <span style="color:red">Removed</span> [RustHazmatSuit.](https://thunderstore.io/c/lethal-company/p/TeamClark/RustHazmatSuit/)
+- <span style="color:red">Removed</span> [VoidSuit.](https://thunderstore.io/c/lethal-company/p/VoidNW/VoidSuit/)
+- <span style="color:red">Removed</span> [Low Budget One Piece suits.](https://thunderstore.io/c/lethal-company/p/OnePeak/Low_Budget_One_Piece_suits/)
 
-# Cookies Vision 2.0.3
-
+# <span style="color:orange">Cookies Vision 2.0.3</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated config files.
-- Updated [EnhancedRadarBooster.](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/) (Remote scrap can trigger Radar Booster Flash in it range.)
-- Removed [HideModList.](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)
-- Removed [HDLethalCompany.](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
+- <span style="color:cyan">Updated</span> config files.
+- <span style="color:cyan">Updated</span> [EnhancedRadarBooster.](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/) (Remote scrap can trigger Radar Booster Flash in it range.)
+- <span style="color:red">Removed</span> [HideModList.](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)
+- <span style="color:red">Removed</span> [HDLethalCompany.](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
 
-# Cookies Vision 2.0.2
-
+# <span style="color:orange">Cookies Vision 2.0.2</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
-- Updated config files.
-- Removed [CleanerLogs.](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/)
-- Removed [NameplateTweaks.](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
+- <span style="color:cyan">Updated</span> config files.
+- <span style="color:red">Removed</span> [CleanerLogs.](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/)
+- <span style="color:red">Removed</span> [NameplateTweaks.](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
 - Disabled Rocket Launcher ([LethalThings.](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/))
 - Disabled Hacking Tool ([LethalThings.](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/))
-- Added [LogNeuter.](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LogNeuter/)
-- Added [Diversity.](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
-- Added [CozyImprovements.](https://thunderstore.io/c/lethal-company/p/Spyci/CozyImprovements/)
-- Added [PestControl.](https://thunderstore.io/c/lethal-company/p/NiceHairs/PestControl/)
-- Added [OuijaBoard.](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/)
-- Added [BetterItemScan.](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
-- Added [MaskTheDead.](https://thunderstore.io/c/lethal-company/p/F4ilS4fe/MaskTheDead/)
-- Added [LCUltrawide.](https://thunderstore.io/c/lethal-company/p/stefan750/LCUltrawide/)
-- Added [NeedyCats.](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
-- Added [FairAI.](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)
-- Added [HackPad.](https://thunderstore.io/c/lethal-company/p/willis81808/HackPad/)
-- Added [BetterLightning.](https://thunderstore.io/c/lethal-company/p/PostMortem/BetterLightning/)
-- Added [FasterItemDropship.](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
-- Added [FlashlightFix.](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/)
-- Added [BuyableShotgunShells.](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
-- Added [Symbiosis.](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/)
-- Added [HidePlayerNames.](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
-- Added [BetterSprayPaint.](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
-- Added [EnhancedRadarBooster.](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)
-- Added [LethalRichPresence.](https://thunderstore.io/c/lethal-company/p/mrov/LethalRichPresence/)
-- Added [NoSellLimit.](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit/)
-- Added [JumpDelayPatch.](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)
-- Added [GhostCodes.](https://thunderstore.io/c/lethal-company/p/darmuh/GhostCodes/)
-- Added [LethalRegeneration.](https://thunderstore.io/c/lethal-company/p/Toskan4134/LethalRegeneration/)
-- Added [DimmingFlashlights.](https://thunderstore.io/c/lethal-company/p/blink9803/DimmingFlashlights/)
-- Added [LaserPointerDetonator.](https://thunderstore.io/c/lethal-company/p/Kittenji/LaserPointerDetonator/)
-- Added [Corporate Restructure.](https://thunderstore.io/c/lethal-company/p/Jamil/CorporateRestructure/)
-- Added [CompanyBuildingEnhancements.](https://thunderstore.io/c/lethal-company/p/Dreamweave/CompanyBuildingEnhancements/)
+- <span style="color:lime">Added</span> [LogNeuter.](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LogNeuter/)
+- <span style="color:lime">Added</span> [Diversity.](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+- <span style="color:lime">Added</span> [CozyImprovements.](https://thunderstore.io/c/lethal-company/p/Spyci/CozyImprovements/)
+- <span style="color:lime">Added</span> [PestControl.](https://thunderstore.io/c/lethal-company/p/NiceHairs/PestControl/)
+- <span style="color:lime">Added</span> [OuijaBoard.](https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/)
+- <span style="color:lime">Added</span> [BetterItemScan.](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
+- <span style="color:lime">Added</span> [MaskTheDead.](https://thunderstore.io/c/lethal-company/p/F4ilS4fe/MaskTheDead/)
+- <span style="color:lime">Added</span> [LCUltrawide.](https://thunderstore.io/c/lethal-company/p/stefan750/LCUltrawide/)
+- <span style="color:lime">Added</span> [NeedyCats.](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
+- <span style="color:lime">Added</span> [FairAI.](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)
+- <span style="color:lime">Added</span> [HackPad.](https://thunderstore.io/c/lethal-company/p/willis81808/HackPad/)
+- <span style="color:lime">Added</span> [BetterLightning.](https://thunderstore.io/c/lethal-company/p/PostMortem/BetterLightning/)
+- <span style="color:lime">Added</span> [FasterItemDropship.](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
+- <span style="color:lime">Added</span> [FlashlightFix.](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/)
+- <span style="color:lime">Added</span> [BuyableShotgunShells.](https://thunderstore.io/c/lethal-company/p/MegaPiggy/BuyableShotgunShells/)
+- <span style="color:lime">Added</span> [Symbiosis.](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/)
+- <span style="color:lime">Added</span> [HidePlayerNames.](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
+- <span style="color:lime">Added</span> [BetterSprayPaint.](https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/)
+- <span style="color:lime">Added</span> [EnhancedRadarBooster.](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/)
+- <span style="color:lime">Added</span> [LethalRichPresence.](https://thunderstore.io/c/lethal-company/p/mrov/LethalRichPresence/)
+- <span style="color:lime">Added</span> [NoSellLimit.](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit/)
+- <span style="color:lime">Added</span> [JumpDelayPatch.](https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/)
+- <span style="color:lime">Added</span> [GhostCodes.](https://thunderstore.io/c/lethal-company/p/darmuh/GhostCodes/)
+- <span style="color:lime">Added</span> [LethalRegeneration.](https://thunderstore.io/c/lethal-company/p/Toskan4134/LethalRegeneration/)
+- <span style="color:lime">Added</span> [DimmingFlashlights.](https://thunderstore.io/c/lethal-company/p/blink9803/DimmingFlashlights/)
+- <span style="color:lime">Added</span> [LaserPointerDetonator.](https://thunderstore.io/c/lethal-company/p/Kittenji/LaserPointerDetonator/)
+- <span style="color:lime">Added</span> [Corporate Restructure.](https://thunderstore.io/c/lethal-company/p/Jamil/CorporateRestructure/)
 
-# Cookies Vision 2.0.1
-- Updated Mods.
-- Added [Lockdown](https://thunderstore.io/c/lethal-company/p/Ozone/Lockdown/), A configurable Anti-Griefing tool for hosts.
+# <span style="color:orange">Cookies Vision 2.0.1</span>
+- <span style="color:cyan">Updated</span> Mods.
+- <span style="color:lime">Added</span> [Lockdown](https://thunderstore.io/c/lethal-company/p/Ozone/Lockdown/), A configurable Anti-Griefing tool for hosts.
 
-# Cookies Vision 2.0.0
+# <span style="color:orange">Cookies Vision 2.0.0</span>
 - Hopefully, a self-updating uploading bot (site upload).
 
-# Cookies Vision 1.0.1
-- Added config files
-- Removed LethalThings' Night Vision Goggles (unneeded considering Advanced Company aleady has working goggles.)
+# <span style="color:orange">Cookies Vision 1.0.1</span>
+- <span style="color:lime">Added</span> config files
+- <span style="color:red">Removed</span> LethalThings' Night Vision Goggles (unneeded considering Advanced Company already has working goggles.)
 - Optimized Game
 
-# Cookies Vision 1.0.0
+# <span style="color:orange">Cookies Vision 1.0.0</span>
 - Public Release
 
-# Cookies Vision 0.5.0 
+# <span style="color:orange">Cookies Vision 0.5.0</span>
 - Initial Creation
+
+This concludes the summary of the changes in the Cookie's Vision Modpack updates. If you have any specific questions or need more details on a particular update, feel free to ask!
+
+
