@@ -2,7 +2,16 @@
 
 This modpack serves as a complementary content expansion for the **Cookies Vision Modpack** and is designed to work with other modpacks! It focuses on adding the new moons and dungeons of Lethal Company.
 
-👉 [Main Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)
+
+👉 [Cookies Vision 👀 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+
+👉 [Cookies Moons 🌑 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMOONS/)
+
+👉 [Cookies Server 📠 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesServer/)
+
+👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
+
 ---
 
 ## 👥 Contributors

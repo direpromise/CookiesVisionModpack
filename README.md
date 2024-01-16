@@ -19,6 +19,16 @@ Welcome to **Cookies Vision**, an extensive modpack for Lethal Company! This col
 - **New Items:** Discover an array of new items and tools to aid you on your adventure.
 - **New Features:** Innovative additions that bring freshness and excitement to your gameplay.
 
+👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesClient/)
+
+👉 [Cookies Vision 👀 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+
+👉 [Cookies Moons 🌑 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMOONS/)
+
+👉 [Cookies Server 📠 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesServer/)
+
+👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
+
 
 ## 🚀 Installation
 
