@@ -18,7 +18,7 @@ jobs:
         run: |
           sudo apt-get install zip
           cd CookiesMOONS
-          zip -r ../CookiesMOONS.zip icon.png manifest.json README.md CHANGELOG.md
+          zip -r ../CookiesMOONS.zip icon.png manifest.json BepInEx README.md CHANGELOG.md
       - id: pub
         uses: ./
         with:
