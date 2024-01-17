@@ -12,6 +12,8 @@ This modpack serves as a complementary content expansion for the **Cookies Visio
 
 👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
 
+👉 [Cookies MoreCompany 💃 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMoreCompany/)
+
 ---
 
 ## 👥 Contributors

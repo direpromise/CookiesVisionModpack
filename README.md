@@ -29,6 +29,8 @@ Welcome to **Cookies Vision**, an extensive modpack for Lethal Company! This col
 
 👉 [Cookies VR 🥽 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesVR/)
 
+👉 [Cookies MoreCompany 💃 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMoreCompany/)
+
 
 ## 🚀 Installation
 

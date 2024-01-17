@@ -1,3 +1,58 @@
+# <span style="color:orange">Cookies Vision 2.2.9</span>
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Fixed issues with monsters not spawning, thank you ProtoBoxFox on Discord! 💕
+- Fixed MANY issues and overlaps
+- Fixed Sound issues
+- Added ImmersiveCompany
+- Added CompanyCreatures
+- Added InsanityRemastered
+- Added SignalTranslatorAligner
+- Added LCBetterClock
+- re:Added YippeeMod
+- Added PushCompany
+- Added DiscJockey
+- Added PintoBoy
+- Added Coroner
+- Added CustomTranslatorCharLimit
+- Added SellTracker
+- Added ScannableCodes
+- Added ToggleDeafen (currently useless)
+- Added DoorBreach
+- Added GeneralImprovements
+- Removed MaskedEnemyOverhaul (issues with monsters not spawning)
+- Removed LethalExpansion
+- Removed PlushiesPlus
+- Removed LethalAutocomplete
+- Removed LogNeuter
+- Removed HidePlayerNames
+- Removed DetailedScan
+- Removed CoomfyDungeon
+- Removed BetterTerminal
+- Removed EnhancedRadarBooster
+- Removed TerminalExtras
+- Removed CollectYourDead
+- Removed ShipLoot
+- Removed SprintLadderFix
+- Removed ScannablePlayerItems
+- Removed ShipLobby
+- Removed SnapRotateFurniture
+- Removed ScanFix
+- Removed BuffedPresents
+- Removed HideModList (bugs)
+- Removed AEIOUCompany (causes me lag for now)
+- Updated TooManyEmotes
+- Updated LethalUtilities
+- Updated LCAmmoCheck
+- Updated CookiesSounds
+- Updated LCBetterSaves
+- Updated darmuhsTerminalStuff
+- Updated AdvancedCompany
+- Updated LethalLib
+- Updated LethalRichPresence
+- Updated CozyImprovements
+- Retracted the last coloring formatting since thunderstore doesn't support it :c
+
 # <span style="color:orange">Cookies Vision 2.2.8</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
