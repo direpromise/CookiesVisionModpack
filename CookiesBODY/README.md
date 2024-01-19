@@ -14,6 +14,8 @@ This modpack serves as a core component for the **Cookies Vision Modpack** and s
 
 👉 [Cookies MoreCompany 💃 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMoreCompany/)
 
+👉 [Cookies Schizophrenia 😨 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSchizophrenia/)
+
 ---
 
 ## 👥 Contributors
@@ -22,4 +24,4 @@ This modpack serves as a core component for the **Cookies Vision Modpack** and s
 
 ## 💬 Support or Contact
 
-For inquiries, suggestions, or assistance, please refer to the [main modpack repository](https://github.com/direpromise/CookiesVisionModpack).
+For inquiries, suggestions, or assistance, please refer to the [main modpack repository](https://github.com/direpromise/CookiesVisionModpack) or [our Discord Server](https://discord.gg/7r7RBpybV).

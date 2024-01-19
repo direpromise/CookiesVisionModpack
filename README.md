@@ -31,6 +31,7 @@ Welcome to **Cookies Vision**, an extensive modpack for Lethal Company! This col
 
 👉 [Cookies MoreCompany 💃 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesMoreCompany/)
 
+👉 [Cookies Schizophrenia 😨 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/CookiesSchizophrenia/)
 
 ## 🚀 Installation
 
