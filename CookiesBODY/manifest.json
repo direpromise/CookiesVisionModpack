@@ -1,6 +1,6 @@
 {
   "name": "CookiesBODY",
-  "version_number": "1.1.8",
+  "version_number": "1.1.9",
   "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
   "description": "🍪 A Core Component for Cookies Vision Modpack, please do not download independently! 🍪",
   "dependencies": [
@@ -15,7 +15,6 @@
     "TheFluff-FairAI-1.2.8",
     "NotAtomicBomb-TerminalApi-1.5.1",
     "F4ilS4fe-MaskTheDead-1.0.5",
-    "gamendegamer-Lethal_Admin-1.3.0",
     "quackandcheese-MirrorDecor-1.2.3",
     "Jamil-Corporate_Restructure-1.0.6",
     "PotatoePet-AdvancedCompany-1.0.118",
@@ -33,7 +32,6 @@
     "ViViKo-NoSellLimit-1.0.1",
     "x753-Mimics-2.3.2",
     "Pooble-LCBetterSaves-1.7.2",
-    "Ryokune-Better_Lobbies-1.0.3",
     "taffyko-BetterSprayPaint-1.1.0",
     "Electric131-OuijaBoard-1.5.2",
     "dslogget-PlayerMapNumbers-0.1.1",
@@ -47,7 +45,6 @@
     "FutureSavior-Hold_Scan_Button-1.1.1",
     "kRYstall9-FastSwitchPlayerViewInRadar-1.3.2",
     "quackandcheese-ToggleMute-1.3.0",
-    "CTNOriginals-CrossHair-1.0.5",
     "kuba6000-LC_Masked_Fix-0.0.2",
     "AriDev-JesterFree-2.0.0",
     "Process-slashKill-1.0.0",
@@ -112,7 +109,6 @@
     "Yoshify-DiscJockey-1.2.1",
     "HomelessGinger-MaskedEnemyOverhaul-3.1.0",
     "BudgetAirpods-InsanityRemastered-1.0.8",
-    "OnionMilk-crosshair-1.0.1",
-    "Owen3H-IntroTweaks-1.4.2"
+    "OnionMilk-crosshair-1.0.1"
   ]
 }
