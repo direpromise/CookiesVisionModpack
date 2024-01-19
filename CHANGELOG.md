@@ -1,3 +1,11 @@
+# <span style="color:orange">Cookies Vision 2.3.1</span>
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated config files
+- Removed Lethal_Admin
+- Removed Better_Lobbies
+- Removed IntroTweaks
+
 # <span style="color:orange">Cookies Vision 2.3.0</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
