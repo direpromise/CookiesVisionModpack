@@ -1,3 +1,16 @@
+# <span style="color:orange">Cookies Vision 2.3.2</span>
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated PintoBoy
+- Updated GeneralImprovements
+- Updated TooManyEmotes
+- Updated FacilityMeltdown
+- Updated MirrorDecor
+- Updated FairAI
+- Removed LaserPointerDetonator
+- Removed BunkbedRevive
+- Removed CompanyCreatures
+
 # <span style="color:orange">Cookies Vision 2.3.1</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
