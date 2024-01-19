@@ -1,3 +1,16 @@
+# <span style="color:#d79ff5">Cookies Moons 1.0.9</span>
+
+- Updated Etern
+- Updated Atlas_Abyss
+- Updated E_Gypt_Moon
+- Updated Acidir
+- Updated Infernis
+- Updated LethalExpansion
+- Updated SCPFoundationDungeon
+- Updated LethalLevelLoader
+- Updated LethalLib
+
+
 # <span style="color:#d79ff5">Cookies Moons 1.0.8</span>
 
 - Introduced config files
