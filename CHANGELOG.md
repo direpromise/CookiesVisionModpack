@@ -1,3 +1,27 @@
+# <span style="color:orange">Cookies Vision 2.3.0</span>
+An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
+
+- Updated config file of GeneralImprovements to speed up game boot up process.
+- Updated config files relating to intro tweaks.
+- Updated TooManyEmotes (Accidentally set the audio listening source to the emote camera when you stopped emoting, Should be fixed now)
+- Updated Lethal_Admin (New ban system)
+- Updated CookiesSounds (Major DLC update)
+- Updated VanillaContentExpansion
+- Updated ToggleDeafen (still exp, do not bother too much with it as of now)
+- Updated GeneralImprovements
+- Updated MaskedEnemyOverhaul
+- Updated FacilityMeltdown
+- Updated LethalUtilities
+- Updated CustomSounds
+- Updated ChillaxSCRAPS
+- Updated GamblingMachineAtTheCompany
+- Updated LCSoundTool
+- Updated ghostCodes
+- Updated AdvancedCompany
+- Updated TerminalApi
+- Updated BetterSpec
+- Added crosshair by OnionMilk
+- Removed CrossHair by CTNOriginals
 # <span style="color:orange">Cookies Vision 2.2.9</span>
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
