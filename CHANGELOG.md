@@ -1,4 +1,17 @@
-# <span style="color:orange">Cookies Vision 2.3.2</span>
+# Cookies Vision 2.3.3
+
+- Updated CookiesSounds
+- Updated PizzaTowerEscapeMusic
+- Updated MaskedEnemyOverhaul
+- Updated GeneralImprovements
+- Updated darmuhsTerminalStuff
+- Updated CustomSounds
+- Updated FairAI
+- Updated LethalCompany_InputUtils
+- Updated BetterLadders
+- Updated LethalRichPresence
+
+# Cookies Vision 2.3.2
 An update to Cookie's Vision Modpack has been released. The update will be applied when you update Cookie's Vision. The major changes include:
 
 - Updated PintoBoy
