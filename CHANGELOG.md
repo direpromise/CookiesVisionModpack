@@ -1,6 +1,6 @@
 # Cookies Vision 2.3.3
 
-- Updated CookiesSounds (Major Update)
+- Updated CookiesSounds (Major Update!)
 - Updated PizzaTowerEscapeMusic
 - Updated MaskedEnemyOverhaul
 - Updated GeneralImprovements
