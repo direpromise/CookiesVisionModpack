@@ -1,3 +1,29 @@
+# Cookies Vision 2.3.4
+
+- Fixed issues with Monsters not spawning inside the Facility.
+- Added CookiesMoreCompany
+- Added IntroTweaks
+- Added OpenBodyCams
+- Fixed issues item scanner
+- Fixed bug when trying to obtain new perks through the terminal
+- Updated & tweaked a bunch of config files
+- Fixed BetterSpec config files
+- Fixed pizzatowerescapemusic config files
+- Updated BetterLadders
+- Updated AdvancedCompany
+- Updated LCBetterSaves
+- Updated BuyableShotgunShells
+- Updated LethalLoudnessMeter
+- Updated CookiesSounds
+- Updated LethalUtilities
+- Updated GeneralImprovements
+- Updated InsanityRemastered
+- Removed JesterFree
+- Removed ImmersiveCompany
+- Removed FastSwitchPlayerViewInRadar
+- Removed Helmet_Cameras by RickArg
+- Removed the Personal Radar from ImmersiveCompany cause it conflicts with the 'perks' command
+
 # Cookies Vision 2.3.3
 
 - Updated CookiesSounds (Major Update!)
