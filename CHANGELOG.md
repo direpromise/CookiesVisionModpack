@@ -1,3 +1,13 @@
+# Cookies Vision 2.3.5
+
+- Added JesterFree
+- Added LCAmmoCheck_OLD
+- Updated VanillaContentExpansion
+- Updated LethalCompany_InputUtils
+- Removed Immersive_Visor
+- Removed LCAmmoCheck
+- Fixed dependencies
+
 # Cookies Vision 2.3.4
 
 - Fixed issues with Monsters not spawning inside the Facility.
