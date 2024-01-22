@@ -1,3 +1,9 @@
+# Cookies Vision 2.3.6
+
+- Updated OpenBodyCams
+- Updated CookiesSounds
+- Updated CookiesMoreCompany
+
 # Cookies Vision 2.3.5
 
 - Added JesterFree
