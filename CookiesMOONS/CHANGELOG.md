@@ -1,3 +1,17 @@
+# Cookies Moons 1.1.0
+
+- Updated SCPFoundationDungeon
+- Updated LethalExpansion
+- Updated Infernis
+- Updated Aquatis
+- Updated Acidir will
+- Updated E_Gypt_Moon
+- Updated Atlas_Abyss
+- Updated StarlancerMoons
+- Updated Starlancer
+- Updated Etern
+
+
 # <span style="color:#d79ff5">Cookies Moons 1.0.9</span>
 
 - Updated Etern
