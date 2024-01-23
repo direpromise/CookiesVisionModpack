@@ -4,7 +4,7 @@
 - Updated OpenBodyCams   
 - Updated CookiesSounds
 - Updated BetterSprayPaint
-- Updated AdvancedCompany
+- Updated AdvancedCompany 
 
 # Cookies Vision 2.3.6
 
