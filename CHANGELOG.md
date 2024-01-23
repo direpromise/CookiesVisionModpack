@@ -1,3 +1,11 @@
+# Cookies Vision 2.3.7
+
+- Updated MirrorDecor
+- Updated OpenBodyCams   
+- Updated CookiesSounds
+- Updated BetterSprayPaint
+- Updated AdvancedCompany
+
 # Cookies Vision 2.3.6
 
 - Updated OpenBodyCams
