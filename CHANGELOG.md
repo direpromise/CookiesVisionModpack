@@ -1,10 +1,17 @@
+# Cookies Vision 2.3.8
+
+- Updated LethalCompany_InputUtils
+- Updated AdvancedCompany
+- Updated CookiesSounds
+- Updated TooManyEmotes 
+
 # Cookies Vision 2.3.7
 
 - Updated MirrorDecor
-- Updated OpenBodyCams   
+- Updated OpenBodyCams
 - Updated CookiesSounds
 - Updated BetterSprayPaint
-- Updated AdvancedCompany 
+- Updated AdvancedCompany
 
 # Cookies Vision 2.3.6
 
