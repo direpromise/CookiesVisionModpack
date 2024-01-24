@@ -1,3 +1,10 @@
+# Cookies Vision 2.3.91
+
+- Updated LethalCompany_InputUtils
+- Updated AdvancedCompany
+- Updated BuyableShotgunShells
+- Updated AdvancedCompany
+
 # Cookies Vision 2.3.9
 
 - Added Immersive_Visor
