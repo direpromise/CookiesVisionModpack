@@ -1,3 +1,9 @@
+# Cookies Moons 1.1.1
+
+- Updated Atlas_Abyss
+- Updated Etern
+- Updated Acidir
+
 # Cookies Moons 1.1.0
 
 - Updated SCPFoundationDungeon
