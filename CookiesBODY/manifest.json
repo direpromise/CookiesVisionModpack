@@ -1,6 +1,6 @@
 {
   "name": "CookiesBODY",
-  "version_number": "1.3.0",
+  "version_number": "1.3.1",
   "website_url": "https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/",
   "description": "🍪 A Core Component for Cookies Vision Modpack, please do not download independently! 🍪",
   "dependencies": [
@@ -17,7 +17,7 @@
     "F4ilS4fe-MaskTheDead-1.0.5",
     "quackandcheese-MirrorDecor-1.3.1",
     "Jamil-Corporate_Restructure-1.0.6",
-    "PotatoePet-AdvancedCompany-1.0.133",
+    "PotatoePet-AdvancedCompany-1.0.135",
     "darmuh-darmuhsTerminalStuff-2.2.4",
     "Piggy-ShowCapacity-1.0.7",
     "Toskan4134-LethalRegeneration-1.2.0",
@@ -48,7 +48,7 @@
     "Evaisa-HookGenPatcher-0.0.5",
     "BepInEx-BepInExPack-5.4.2100",
     "Ozone-BepInUtils-1.2.1",
-    "MegaPiggy-BuyableShotgunShells-1.0.4",
+    "MegaPiggy-BuyableShotgunShells-1.0.5",
     "RugbugRedfern-Skinwalkers-4.0.1",
     "Ozone-Glow_Steps-1.1.2",
     "stefan750-LCUltrawide-1.1.1",
