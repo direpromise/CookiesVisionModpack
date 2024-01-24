@@ -1,12 +1,12 @@
 {
   "name": "Cookies_Vision_Modpack",
-  "version_number": "2.3.7",
+  "version_number": "2.3.8",
   "website_url": "https://discord.gg/7r7RBpybVK",
   "description": "Updated to [v47 & v49] 🍪 A Lethal Company overhauled experience that reshapes the game to what it should be. 🍪",
   "dependencies": [
     "ChocolateCookies-Cookies_Vision_Utilities-1.0.6",
     "ChocolateCookies-CookiesCOSMETICS-1.1.0",
-    "ChocolateCookies-CookiesBODY-1.2.7",
+    "ChocolateCookies-CookiesBODY-1.2.8",
     "ChocolateCookies-CookiesMoreCompany-1.0.2"
   ]
 }
