@@ -1,3 +1,11 @@
+# Cookies Moons 1.1.2
+
+- Updated LethalExpansionCore
+- Updated StarlancerMusic
+- Updated StarlancerMoons
+- Updated Starlancer 
+- Updated LethalExpansionCore
+
 # Cookies Moons 1.1.1
 
 - Updated Atlas_Abyss
