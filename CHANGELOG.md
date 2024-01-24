@@ -1,3 +1,10 @@
+# Cookies Vision 2.3.9
+
+- Added Immersive_Visor
+- Updated CookiesSounds (MAJOR UPDATE)
+- Updated OpenBodyCams
+- Updated AdvancedCompany
+
 # Cookies Vision 2.3.8
 
 - Updated LethalCompany_InputUtils
