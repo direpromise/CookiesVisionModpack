@@ -1,3 +1,9 @@
+# Cookies Vision 2.3.92
+
+- Updated OpenBodyCams (implemented mini monitors again)
+- Updated GeneralImprovements
+- Updated AdvancedCompany (Fixed a bug which occured when deactivating enemies in enemies tab)
+
 # Cookies Vision 2.3.91
 
 - Updated LethalCompany_InputUtils
