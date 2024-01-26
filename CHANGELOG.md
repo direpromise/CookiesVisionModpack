@@ -1,3 +1,9 @@
+# Cookies Vision 2.3.93
+
+- Updated config files
+- Updated OpenBodyCams
+- Updated AdvancedCompany
+
 # Cookies Vision 2.3.92
 
 - Updated OpenBodyCams (implemented mini monitors again)
