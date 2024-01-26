@@ -19960,7 +19960,7 @@
       ]
     },
     "inventory_slots": {
-      "active": false,
+      "active": true,
       "base": 4.0,
       "change": 1.0,
       "prices": [

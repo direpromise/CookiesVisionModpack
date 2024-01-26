@@ -3,7 +3,7 @@
 - Updated LethalExpansionCore
 - Updated StarlancerMusic
 - Updated StarlancerMoons
-- Updated Starlancer 
+- Updated Starlancer
 - Updated LethalExpansionCore
 
 # Cookies Moons 1.1.1
