@@ -1,3 +1,14 @@
+# Cookies Vision 2.3.94
+
+- Updated config files
+- Updated OpenBodyCams
+- Updated InsanityRemastered
+- Updated GeneralImprovements
+- Updated CookiesSounds
+- Updated BetterSprayPaint
+- Updated LethalCompany_InputUtils
+
+
 # Cookies Vision 2.3.93
 
 - Updated config files
