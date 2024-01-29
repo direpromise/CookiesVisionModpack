@@ -1,3 +1,21 @@
+# Cookies Moons 1.2.0
+
+- Added Abandoned_Manor
+- Added MoreInteriors
+- Added Bikini_Bottom
+- Added ScarletDevilMansion
+- Added Dust2
+- Added Ether
+- Updated Scoopys_Variety_Mod
+- Updated Etern
+- Updated StarlancerMoons
+- Updated Atlas_Abyss
+- Updated E_Gypt_Moon
+- Updated Infernis
+- Updated LethalExpansion
+- Updated SCPFoundationDungeon
+- Updated LethalLib
+
 # Cookies Moons 1.1.2
 
 - Updated LethalExpansionCore
