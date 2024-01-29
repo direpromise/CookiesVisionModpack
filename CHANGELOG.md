@@ -1,3 +1,16 @@
+# Cookies Vision 2.3.95
+
+- Updated config files
+- Updated OpenBodyCams
+- Updated GeneralImprovements
+- Updated FacilityMeltdown
+- Updated TooManyEmotes
+- Updated CookiesSounds
+- Updated AdvancedCompany
+- Updated FairAI
+- Updated LethalLib
+
+
 # Cookies Vision 2.3.94
 
 - Updated config files
