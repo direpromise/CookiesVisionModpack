@@ -1,3 +1,14 @@
+# Cookies Vision 2.3.99
+
+- Added CookiesPresents
+- Updated OpenBodyCams
+- Updated GeneralImprovements
+- Updated TooManyEmotes
+- Updated Touchscreen
+- Updated CoilHeadStare
+- Updated AdvancedCompany
+
+
 # Cookies Vision 2.3.95
 
 - Updated config files
