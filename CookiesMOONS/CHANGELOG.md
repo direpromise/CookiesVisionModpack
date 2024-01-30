@@ -1,3 +1,8 @@
+# Cookies Moons 1.2.01
+
+- Updated ScarletDevilMansion
+- Updated LethalLib
+
 # Cookies Moons 1.2.0
 
 - Added Abandoned_Manor
