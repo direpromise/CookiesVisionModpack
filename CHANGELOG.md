@@ -1,4 +1,4 @@
-# Cookies Vision 2.4
+# Cookies Vision 2.4.0
 
 - Updated CookiesPresents
 - Updated OpenBodyCams
