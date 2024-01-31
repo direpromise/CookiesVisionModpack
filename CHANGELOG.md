@@ -1,3 +1,12 @@
+# Cookies Vision 2.4
+
+- Updated CookiesPresents
+- Updated OpenBodyCams
+- Updated GeneralImprovements
+- Updated TooManyEmotes
+- Updated CookiesSounds
+- Updated AdvancedCompany
+
 # Cookies Vision 2.3.99
 
 - Added CookiesPresents
