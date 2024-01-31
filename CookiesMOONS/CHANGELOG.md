@@ -1,4 +1,10 @@
-# Cookies Moons 1.2.01
+# Cookies Moons 1.2.11
+
+- Updated MoreInteriors
+- Updated SCPFoundationDungeon
+- Updated Scoopys_Variety_Mod
+
+# Cookies Moons 1.2.1
 
 - Updated ScarletDevilMansion
 - Updated LethalLib 
