@@ -1,3 +1,10 @@
+# Cookies Vision 2.4.1
+
+- Updated CookiesMoreCompany
+- Updated IntroTweaks
+- Updated MaskedEnemyOverhaul
+- Updated AdvancedCompany
+
 # Cookies Vision 2.4.0
 
 - Updated CookiesPresents
