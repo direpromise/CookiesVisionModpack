@@ -1,3 +1,7 @@
+# Cookies Vision 2.5.1
+
+- Added Peeper
+
 # Cookies Vision 2.5.0
 
 - Updated config files
