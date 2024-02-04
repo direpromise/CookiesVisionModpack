@@ -1,6 +1,6 @@
 # Cookies Vision 2.5.1
 
-- Added Peeper
+- Added Peeper (A new non-lethal outside enemy!)
 
 # Cookies Vision 2.5.0
 
