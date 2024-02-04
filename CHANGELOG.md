@@ -1,3 +1,22 @@
+# Cookies Vision 2.5.0
+
+- Updated config files
+- LethalCompany_InputUtils will be updated to: 0.6.2
+- CookiesSounds will be updated to: 1.4.1
+- LethalRichPresence will be updated to: 0.5.8
+- LethalCompany_InputUtils will be updated to: 0.6.2
+- SpectateEnemies will be updated to: 2.3.0
+- AdvancedCompany will be updated to: 1.0.148
+- LCSoundTool will be updated to: 1.5.1
+- CookiesSounds will be updated to: 1.4.0
+- FacilityMeltdown will be updated to: 2.2.2
+- GeneralImprovements will be updated to: 1.1.7
+- Coroner will be updated to: 1.6.0
+- LethalSettings will be updated to: 1.4.0
+- OpenBodyCams will be updated to: 1.1.1
+- IntroTweaks will be updated to: 1.4.5
+- Introduced CookiesMoons
+
 # Cookies Vision 2.4.1
 
 - Updated CookiesMoreCompany
