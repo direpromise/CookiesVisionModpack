@@ -5,11 +5,47 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 64,
+        "min_value": 45,
         "override_max_value": false,
-        "max_value": 144,
+        "max_value": 87,
         "override_weight": false,
-        "weight": 1.02
+        "weight": 1.01
+      }
+    },
+    {
+      "key": "9V Battery",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 65,
+        "override_weight": false,
+        "weight": 1.01
+      }
+    },
+    {
+      "key": "AA Battery",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 45,
+        "override_max_value": false,
+        "max_value": 60,
+        "override_weight": false,
+        "weight": 1.01
+      }
+    },
+    {
+      "key": "AC Unit",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 162,
+        "override_max_value": false,
+        "max_value": 230,
+        "override_weight": false,
+        "weight": 1.2
       }
     },
     {
@@ -17,11 +53,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 240,
+        "min_value": 275,
         "override_max_value": false,
-        "max_value": 280,
+        "max_value": 325,
         "override_weight": false,
-        "weight": 1.66
+        "weight": 1.44
       }
     },
     {
@@ -29,11 +65,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 48,
+        "min_value": 70,
         "override_max_value": false,
-        "max_value": 72,
+        "max_value": 100,
         "override_weight": false,
-        "weight": 1.1
+        "weight": 1.09
       }
     },
     {
@@ -46,6 +82,30 @@
         "max_value": 180,
         "override_weight": false,
         "weight": 1.0
+      }
+    },
+    {
+      "key": "Alarm Clock",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 80,
+        "override_max_value": false,
+        "max_value": 120,
+        "override_weight": false,
+        "weight": 1.04
+      }
+    },
+    {
+      "key": "Army Helmet",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 40,
+        "override_max_value": false,
+        "max_value": 80,
+        "override_weight": false,
+        "weight": 1.08
       }
     },
     {
@@ -65,11 +125,23 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 24,
+        "min_value": 30,
         "override_max_value": false,
-        "max_value": 40,
+        "max_value": 60,
         "override_weight": false,
         "weight": 1.01
+      }
+    },
+    {
+      "key": "Battery",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 5,
+        "override_max_value": false,
+        "max_value": 5,
+        "override_weight": false,
+        "weight": 1.0
       }
     },
     {
@@ -101,11 +173,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 128,
+        "min_value": 150,
         "override_max_value": false,
-        "max_value": 180,
+        "max_value": 225,
         "override_weight": false,
-        "weight": 1.18
+        "weight": 1.24
       }
     },
     {
@@ -113,23 +185,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 64,
+        "min_value": 55,
         "override_max_value": false,
-        "max_value": 104,
+        "max_value": 80,
         "override_weight": false,
         "weight": 1.02
-      }
-    },
-    {
-      "key": "Boink",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 69,
-        "override_max_value": false,
-        "max_value": 120,
-        "override_weight": false,
-        "weight": 0.0
       }
     },
     {
@@ -149,11 +209,23 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 84,
+        "min_value": 130,
         "override_max_value": false,
-        "max_value": 124,
+        "max_value": 180,
         "override_weight": false,
-        "weight": 1.28
+        "weight": 1.01
+      }
+    },
+    {
+      "key": "BronzeBar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 105,
+        "override_max_value": false,
+        "max_value": 255,
+        "override_weight": false,
+        "weight": 1.32
       }
     },
     {
@@ -169,6 +241,18 @@
       }
     },
     {
+      "key": "Bunny ears",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 499,
+        "override_max_value": false,
+        "max_value": 749,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
       "key": "Candy",
       "value": {
         "active": true,
@@ -181,15 +265,27 @@
       }
     },
     {
+      "key": "Canteen",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 30,
+        "override_max_value": false,
+        "max_value": 60,
+        "override_weight": false,
+        "weight": 1.02
+      }
+    },
+    {
       "key": "Capacitor",
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 64,
+        "min_value": 55,
         "override_max_value": false,
-        "max_value": 104,
+        "max_value": 105,
         "override_weight": false,
-        "weight": 1.01
+        "weight": 1.02
       }
     },
     {
@@ -197,11 +293,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 250,
+        "min_value": 105,
         "override_max_value": false,
-        "max_value": 360,
+        "max_value": 150,
         "override_weight": false,
-        "weight": 1.14
+        "weight": 1.1
       }
     },
     {
@@ -257,11 +353,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 36,
+        "min_value": 45,
         "override_max_value": false,
-        "max_value": 48,
+        "max_value": 87,
         "override_weight": false,
-        "weight": 1.03
+        "weight": 1.01
       }
     },
     {
@@ -281,11 +377,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 44,
+        "min_value": 112,
         "override_max_value": false,
-        "max_value": 60,
+        "max_value": 150,
         "override_weight": false,
-        "weight": 1.01
+        "weight": 1.02
       }
     },
     {
@@ -293,11 +389,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 60,
+        "min_value": 75,
         "override_max_value": false,
-        "max_value": 84,
+        "max_value": 125,
         "override_weight": false,
-        "weight": 1.02
+        "weight": 1.03
       }
     },
     {
@@ -305,11 +401,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 144,
+        "min_value": 120,
         "override_max_value": false,
-        "max_value": 184,
+        "max_value": 160,
         "override_weight": false,
-        "weight": 1.07
+        "weight": 1.05
       }
     },
     {
@@ -341,11 +437,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 48,
+        "min_value": 62,
         "override_max_value": false,
-        "max_value": 64,
+        "max_value": 100,
         "override_weight": false,
-        "weight": 1.04
+        "weight": 1.1
       }
     },
     {
@@ -353,35 +449,23 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 124,
-        "override_max_value": false,
-        "max_value": 150,
-        "override_weight": false,
-        "weight": 1.21
-      }
-    },
-    {
-      "key": "Cup Noodle",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 20,
-        "override_max_value": false,
-        "max_value": 200,
-        "override_weight": false,
-        "weight": 0.0
-      }
-    },
-    {
-      "key": "Death Note",
-      "value": {
-        "active": true,
-        "override_min_value": false,
         "min_value": 150,
         "override_max_value": false,
-        "max_value": 300,
+        "max_value": 225,
         "override_weight": false,
-        "weight": 0.05
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Diamond",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 1065,
+        "override_max_value": false,
+        "max_value": 1335,
+        "override_weight": false,
+        "weight": 1.15
       }
     },
     {
@@ -389,11 +473,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 200,
+        "min_value": 170,
         "override_max_value": false,
-        "max_value": 280,
+        "max_value": 230,
         "override_weight": false,
-        "weight": 1.34
+        "weight": 1.28
       }
     },
     {
@@ -401,11 +485,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 64,
+        "min_value": 55,
         "override_max_value": false,
-        "max_value": 104,
+        "max_value": 105,
         "override_weight": false,
-        "weight": 1.01
+        "weight": 1.02
       }
     },
     {
@@ -433,18 +517,6 @@
       }
     },
     {
-      "key": "Eevee Plush",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 40,
-        "override_max_value": false,
-        "max_value": 60,
-        "override_weight": false,
-        "weight": 0.1
-      }
-    },
-    {
       "key": "Egg beater",
       "value": {
         "active": true,
@@ -452,6 +524,18 @@
         "min_value": 30,
         "override_max_value": false,
         "max_value": 110,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
+      "key": "Emerald",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 525,
+        "override_max_value": false,
+        "max_value": 795,
         "override_weight": false,
         "weight": 1.1
       }
@@ -466,6 +550,18 @@
         "max_value": 320,
         "override_weight": false,
         "weight": 1.2
+      }
+    },
+    {
+      "key": "Fire Axe",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 320,
+        "override_max_value": false,
+        "max_value": 480,
+        "override_weight": false,
+        "weight": 1.3
       }
     },
     {
@@ -485,11 +581,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 24,
+        "min_value": 45,
         "override_max_value": false,
-        "max_value": 36,
+        "max_value": 87,
         "override_weight": false,
-        "weight": 1.02
+        "weight": 1.01
       }
     },
     {
@@ -497,11 +593,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 110,
+        "min_value": 115,
         "override_max_value": false,
-        "max_value": 164,
+        "max_value": 180,
         "override_weight": false,
-        "weight": 1.01
+        "weight": 1.03
       }
     },
     {
@@ -509,35 +605,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 72,
-        "override_max_value": false,
-        "max_value": 84,
-        "override_weight": false,
-        "weight": 1.02
-      }
-    },
-    {
-      "key": "Freddy Fast Bear?",
-      "value": {
-        "active": true,
-        "override_min_value": false,
         "min_value": 80,
         "override_max_value": false,
-        "max_value": 200,
+        "max_value": 160,
         "override_weight": false,
-        "weight": 1.15
-      }
-    },
-    {
-      "key": "Froggy Chair",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 60,
-        "override_max_value": false,
-        "max_value": 100,
-        "override_weight": false,
-        "weight": 0.5
+        "weight": 1.02
       }
     },
     {
@@ -545,11 +617,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 56,
+        "min_value": 75,
         "override_max_value": false,
-        "max_value": 66,
+        "max_value": 100,
         "override_weight": false,
-        "weight": 1.08
+        "weight": 1.07
       }
     },
     {
@@ -557,11 +629,23 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 36,
+        "min_value": 45,
         "override_max_value": false,
-        "max_value": 48,
+        "max_value": 87,
         "override_weight": false,
-        "weight": 1.05
+        "weight": 1.01
+      }
+    },
+    {
+      "key": "Gemstone",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 125,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.1
       }
     },
     {
@@ -625,6 +709,18 @@
       }
     },
     {
+      "key": "Gramophone",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 60,
+        "override_max_value": false,
+        "max_value": 120,
+        "override_weight": false,
+        "weight": 1.18
+      }
+    },
+    {
       "key": "Gremlin Can",
       "value": {
         "active": true,
@@ -665,11 +761,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 24,
+        "min_value": 45,
         "override_max_value": false,
-        "max_value": 36,
+        "max_value": 87,
         "override_weight": false,
-        "weight": 1.02
+        "weight": 1.01
       }
     },
     {
@@ -694,6 +790,30 @@
         "max_value": 150,
         "override_weight": false,
         "weight": 1.15
+      }
+    },
+    {
+      "key": "Jet Engine",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 400,
+        "override_max_value": false,
+        "max_value": 562,
+        "override_weight": false,
+        "weight": 1.7
+      }
+    },
+    {
+      "key": "Key",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 0,
+        "override_max_value": false,
+        "max_value": 0,
+        "override_weight": false,
+        "weight": 1.0
       }
     },
     {
@@ -725,11 +845,35 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 749,
+        "min_value": 624,
         "override_max_value": false,
-        "max_value": 999,
+        "max_value": 874,
         "override_weight": false,
         "weight": 1.0476191
+      }
+    },
+    {
+      "key": "Lightbulb",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 40,
+        "override_max_value": false,
+        "max_value": 60,
+        "override_weight": false,
+        "weight": 1.02
+      }
+    },
+    {
+      "key": "Lighter",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 60,
+        "override_max_value": false,
+        "max_value": 95,
+        "override_weight": false,
+        "weight": 1.02
       }
     },
     {
@@ -737,11 +881,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 72,
+        "min_value": 105,
         "override_max_value": false,
-        "max_value": 96,
+        "max_value": 130,
         "override_weight": false,
-        "weight": 1.04
+        "weight": 1.02
       }
     },
     {
@@ -749,11 +893,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 76,
+        "min_value": 110,
         "override_max_value": false,
-        "max_value": 104,
+        "max_value": 155,
         "override_weight": false,
-        "weight": 1.12
+        "weight": 1.06
       }
     },
     {
@@ -773,11 +917,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 104,
+        "min_value": 75,
         "override_max_value": false,
-        "max_value": 144,
+        "max_value": 125,
         "override_weight": false,
-        "weight": 1.06
+        "weight": 1.02
       }
     },
     {
@@ -809,11 +953,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 160,
+        "min_value": 200,
         "override_max_value": false,
-        "max_value": 240,
+        "max_value": 275,
         "override_weight": false,
-        "weight": 1.38
+        "weight": 1.46
       }
     },
     {
@@ -821,11 +965,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 46,
+        "min_value": 30,
         "override_max_value": false,
-        "max_value": 56,
+        "max_value": 60,
         "override_weight": false,
-        "weight": 1.09
+        "weight": 1.02
       }
     },
     {
@@ -841,15 +985,15 @@
       }
     },
     {
-      "key": "Moai",
+      "key": "MP3",
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 200,
+        "min_value": 175,
         "override_max_value": false,
-        "max_value": 300,
+        "max_value": 275,
         "override_weight": false,
-        "weight": 1.15
+        "weight": 1.0
       }
     },
     {
@@ -865,15 +1009,15 @@
       }
     },
     {
-      "key": "Nokia 3310",
+      "key": "Neon Sign",
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 20,
+        "min_value": 137,
         "override_max_value": false,
-        "max_value": 100,
+        "max_value": 205,
         "override_weight": false,
-        "weight": 0.05
+        "weight": 1.16
       }
     },
     {
@@ -881,11 +1025,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 148,
+        "min_value": 225,
         "override_max_value": false,
-        "max_value": 192,
+        "max_value": 350,
         "override_weight": false,
-        "weight": 1.36
+        "weight": 1.45
       }
     },
     {
@@ -893,11 +1037,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 160,
+        "min_value": 225,
         "override_max_value": false,
-        "max_value": 260,
+        "max_value": 325,
         "override_weight": false,
-        "weight": 1.25
+        "weight": 1.2
       }
     },
     {
@@ -910,6 +1054,18 @@
         "max_value": 160,
         "override_weight": false,
         "weight": 1.05
+      }
+    },
+    {
+      "key": "Old Radio",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.1
       }
     },
     {
@@ -941,11 +1097,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 24,
+        "min_value": 45,
         "override_max_value": false,
-        "max_value": 36,
+        "max_value": 87,
         "override_weight": false,
-        "weight": 1.02
+        "weight": 1.01
       }
     },
     {
@@ -958,6 +1114,18 @@
         "max_value": 260,
         "override_weight": false,
         "weight": 1.0
+      }
+    },
+    {
+      "key": "Pickaxe",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 175,
+        "override_max_value": false,
+        "max_value": 300,
+        "override_weight": false,
+        "weight": 1.1
       }
     },
     {
@@ -989,11 +1157,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 280,
+        "min_value": 140,
         "override_max_value": false,
-        "max_value": 420,
+        "max_value": 200,
         "override_weight": false,
-        "weight": 1.42
+        "weight": 1.15
       }
     },
     {
@@ -1009,6 +1177,18 @@
       }
     },
     {
+      "key": "Polaroid Camera",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 80,
+        "override_max_value": false,
+        "max_value": 160,
+        "override_weight": false,
+        "weight": 1.04
+      }
+    },
+    {
       "key": "Potatoes",
       "value": {
         "active": true,
@@ -1018,6 +1198,18 @@
         "max_value": 349,
         "override_weight": false,
         "weight": 1.09523809
+      }
+    },
+    {
+      "key": "Propane Tank",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 110,
+        "override_max_value": false,
+        "max_value": 162,
+        "override_weight": false,
+        "weight": 1.1
       }
     },
     {
@@ -1049,11 +1241,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 180,
+        "min_value": 225,
         "override_max_value": false,
-        "max_value": 250,
+        "max_value": 275,
         "override_weight": false,
-        "weight": 1.17
+        "weight": 1.24
       }
     },
     {
@@ -1081,6 +1273,18 @@
       }
     },
     {
+      "key": "RockingHorse",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 60,
+        "override_max_value": false,
+        "max_value": 140,
+        "override_weight": false,
+        "weight": 1.18
+      }
+    },
+    {
       "key": "Rubber Ducky",
       "value": {
         "active": true,
@@ -1090,6 +1294,42 @@
         "max_value": 250,
         "override_weight": false,
         "weight": 1.0
+      }
+    },
+    {
+      "key": "Ruby",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 795,
+        "override_max_value": false,
+        "max_value": 1065,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Screwdriver",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 70,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.05
+      }
+    },
+    {
+      "key": "SilverBar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 193,
+        "override_max_value": false,
+        "max_value": 390,
+        "override_weight": false,
+        "weight": 1.4
       }
     },
     {
@@ -1109,11 +1349,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 36,
+        "min_value": 45,
         "override_max_value": false,
-        "max_value": 48,
+        "max_value": 87,
         "override_weight": false,
-        "weight": 1.06
+        "weight": 1.01
       }
     },
     {
@@ -1121,11 +1361,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 24,
+        "min_value": 30,
         "override_max_value": false,
-        "max_value": 40,
+        "max_value": 60,
         "override_weight": false,
-        "weight": 1.05
+        "weight": 1.01
       }
     },
     {
@@ -1133,11 +1373,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 24,
+        "min_value": 40,
         "override_max_value": false,
-        "max_value": 40,
+        "max_value": 70,
         "override_weight": false,
-        "weight": 1.07
+        "weight": 1.01
       }
     },
     {
@@ -1169,11 +1409,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 136,
+        "min_value": 0,
         "override_max_value": false,
-        "max_value": 168,
+        "max_value": 2,
         "override_weight": false,
-        "weight": 1.48
+        "weight": 1.18
       }
     },
     {
@@ -1181,11 +1421,11 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 64,
+        "min_value": 55,
         "override_max_value": false,
-        "max_value": 104,
+        "max_value": 112,
         "override_weight": false,
-        "weight": 1.03
+        "weight": 1.02
       }
     },
     {
@@ -1285,6 +1525,18 @@
       }
     },
     {
+      "key": "Traffic light",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 165,
+        "override_max_value": false,
+        "max_value": 230,
+        "override_weight": false,
+        "weight": 1.2
+      }
+    },
+    {
       "key": "Tragedy",
       "value": {
         "active": true,
@@ -1301,23 +1553,35 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 64,
+        "min_value": 55,
         "override_max_value": false,
-        "max_value": 104,
+        "max_value": 105,
         "override_weight": false,
         "weight": 1.01
       }
     },
     {
-      "key": "Uno Reverse Card",
+      "key": "TypeWriter",
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 100,
+        "min_value": 40,
         "override_max_value": false,
-        "max_value": 200,
+        "max_value": 80,
         "override_weight": false,
-        "weight": 0.05
+        "weight": 1.15
+      }
+    },
+    {
+      "key": "Vice",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 45,
+        "override_max_value": false,
+        "max_value": 70,
+        "override_weight": false,
+        "weight": 1.02
       }
     },
     {
@@ -1345,6 +1609,30 @@
       }
     },
     {
+      "key": "Weezer Guitar",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 240,
+        "override_max_value": false,
+        "max_value": 320,
+        "override_weight": false,
+        "weight": 1.3
+      }
+    },
+    {
+      "key": "WheelRim",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 50,
+        "override_max_value": false,
+        "max_value": 100,
+        "override_weight": false,
+        "weight": 1.15
+      }
+    },
+    {
       "key": "Whoopie cushion",
       "value": {
         "active": true,
@@ -1354,6 +1642,18 @@
         "max_value": 50,
         "override_weight": false,
         "weight": 1.0
+      }
+    },
+    {
+      "key": "WireSpool",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 40,
+        "override_max_value": false,
+        "max_value": 90,
+        "override_weight": false,
+        "weight": 1.12
       }
     },
     {

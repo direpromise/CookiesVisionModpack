@@ -1,3 +1,9 @@
+# Cookies Moons 1.2.3
+
+- Updated mods
+- Added more..
+- Future update changelogs will be reflected on the mainmodpack.
+
 # Cookies Moons 1.2.11
 
 - Updated MoreInteriors

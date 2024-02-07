@@ -1,11 +1,17 @@
 {
   "lobby": {
     "lobby_size": 8,
-    "enable_cosmetics": true,
     "keep_open": true,
     "keep_open_on_moon": false
   },
   "general": {
+    "global_scrap_amount_multiplier": 1.0,
+    "global_scrap_value_multiplier": 1.0,
+    "global_max_power_multiplier": 1.0,
+    "deadline_length": 3,
+    "start_credits": 60,
+    "activate_portable_terminal": true,
+    "enable_cosmetics": true,
     "enable_extend_deadline": false,
     "save_suits_after_death": true,
     "save_progress": false,
@@ -1003,6 +1009,13 @@
                 "override": false,
                 "rarity": 70
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -1156,6 +1169,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -1303,6 +1323,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -1459,6 +1486,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -2452,6 +2486,13 @@
                 "override": false,
                 "rarity": 70
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -2601,6 +2642,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -2756,6 +2804,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_inside_enemies_max_power": false,
@@ -2899,8 +2954,8 @@
             {
               "key": "Spring",
               "value": {
-                "override": false,
-                "rarity": 0
+                "override": true,
+                "rarity": 5
               }
             },
             {
@@ -2908,6 +2963,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -3901,6 +3963,13 @@
                 "override": false,
                 "rarity": 70
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -4054,6 +4123,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -4201,6 +4277,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -4357,6 +4440,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -5350,6 +5440,13 @@
                 "override": false,
                 "rarity": 70
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -5503,6 +5600,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -5650,6 +5754,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -5806,6 +5917,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -6799,6 +6917,13 @@
                 "override": false,
                 "rarity": 70
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -6952,6 +7077,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -7099,6 +7231,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -7255,6 +7394,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -8248,6 +8394,13 @@
                 "override": false,
                 "rarity": 70
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -8401,6 +8554,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -8548,6 +8708,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -8704,6 +8871,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -9697,6 +9871,13 @@
                 "override": false,
                 "rarity": 70
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -9850,6 +10031,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -9997,6 +10185,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -10153,6 +10348,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -11146,6 +11348,13 @@
                 "override": false,
                 "rarity": 70
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -11299,6 +11508,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -11446,6 +11662,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -11602,6 +11825,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -12595,6 +12825,13 @@
                 "override": false,
                 "rarity": 70
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -12748,6 +12985,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -12895,6 +13139,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -13051,6 +13302,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -14044,6 +14302,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -14193,6 +14458,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -14348,6 +14620,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_inside_enemies_max_power": false,
@@ -14497,6 +14776,13 @@
             },
             {
               "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -14840,7 +15126,7 @@
               "key": "Diamond",
               "value": {
                 "override": false,
-                "rarity": 1
+                "rarity": 0
               }
             },
             {
@@ -14875,14 +15161,14 @@
               "key": "BronzeBar",
               "value": {
                 "override": false,
-                "rarity": 100
+                "rarity": 0
               }
             },
             {
               "key": "Pickaxe",
               "value": {
                 "override": false,
-                "rarity": 20
+                "rarity": 0
               }
             },
             {
@@ -15493,6 +15779,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -15642,6 +15935,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -15797,6 +16097,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_inside_enemies_max_power": false,
@@ -15946,6 +16253,13 @@
             },
             {
               "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -16942,6 +17256,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "MP3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -17091,6 +17412,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -17246,6 +17574,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_inside_enemies_max_power": false,
@@ -17395,6 +17730,13 @@
             },
             {
               "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -17789,8 +18131,8 @@
         "key": "Flippers",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 100,
+          "override_price": true,
+          "price": 80,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17801,8 +18143,8 @@
         "key": "Headset",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 40,
+          "override_price": true,
+          "price": 60,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17813,8 +18155,8 @@
         "key": "Helmet lamp",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 50,
+          "override_price": true,
+          "price": 70,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17945,8 +18287,8 @@
         "key": "Tactical helmet",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 150,
+          "override_price": true,
+          "price": 350,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17970,7 +18312,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 150,
+          "price": 250,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -18030,7 +18372,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 40,
+          "price": 30,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -18066,7 +18408,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 150,
+          "price": 100,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -18143,6 +18485,42 @@
           "max_discount": 80,
           "override_weight": false,
           "weight": 1.0952
+        }
+      },
+      {
+        "key": "Tactical h elmet",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 0,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.152381
+        }
+      },
+      {
+        "key": "Shotgun",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 1600,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.15
+        }
+      },
+      {
+        "key": "Enemies Scanner",
+        "value": {
+          "active": true,
+          "override_price": true,
+          "price": 125,
+          "override_max_discount": false,
+          "max_discount": 50,
+          "override_weight": true,
+          "weight": 1.0476191
         }
       }
     ],
@@ -18942,7 +19320,7 @@
       {
         "key": "BronzeBar",
         "value": {
-          "active": false,
+          "active": true,
           "override_min_value": false,
           "min_value": 105,
           "override_max_value": false,
@@ -19266,7 +19644,7 @@
       {
         "key": "Gemstone",
         "value": {
-          "active": false,
+          "active": true,
           "override_min_value": false,
           "min_value": 125,
           "override_max_value": false,
@@ -19542,7 +19920,7 @@
       {
         "key": "Pickaxe",
         "value": {
-          "active": false,
+          "active": true,
           "override_min_value": false,
           "min_value": 175,
           "override_max_value": false,
@@ -19814,6 +20192,18 @@
           "override_weight": false,
           "weight": 1.0
         }
+      },
+      {
+        "key": "MP3",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 175,
+          "override_max_value": false,
+          "max_value": 275,
+          "override_weight": false,
+          "weight": 1.0
+        }
       }
     ],
     "vision_enhancer": {
@@ -19826,6 +20216,19 @@
       "damage_reduction_at_full_health": 1.0,
       "damage_reduction_at_no_health": 0.5,
       "destroy_at_no_health": true
+    },
+    "helmet_lamp": {
+      "battery_time": 360.0
+    },
+    "headset": {
+      "battery_time": 800.0
+    },
+    "tactical_helmet": {
+      "battery_time": 900.0,
+      "battery_time_with_light": 500.0
+    },
+    "flippers": {
+      "speed": 1.0
     }
   },
   "player_perks": {
@@ -19876,6 +20279,19 @@
         500,
         750,
         1000,
+        1500
+      ]
+    },
+    "stamina_regen": {
+      "active": true,
+      "base": 1.0,
+      "change": 0.1,
+      "prices": [
+        200,
+        400,
+        600,
+        800,
+        1200,
         1500
       ]
     },

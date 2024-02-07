@@ -145,6 +145,14 @@
       }
     },
     {
+      "key": "Peeper",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 0
+      }
+    },
+    {
       "key": "Puffer",
       "value": {
         "active": true,
@@ -158,6 +166,14 @@
         "active": true,
         "override_power_level": false,
         "power_level": 1
+      }
+    },
+    {
+      "key": "Shy guy",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 3
       }
     },
     {

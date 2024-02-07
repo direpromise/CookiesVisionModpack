@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "key": "Australium Shovel",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 400,
-        "override_max_discount": false,
-        "max_discount": 0,
-        "override_weight": false,
-        "weight": 1.14
-      }
-    },
-    {
       "key": "Boombox",
       "value": {
         "active": true,
@@ -29,7 +17,7 @@
       "value": {
         "active": true,
         "override_price": false,
-        "price": 160,
+        "price": 125,
         "override_max_discount": false,
         "max_discount": 80,
         "override_weight": false,
@@ -49,6 +37,18 @@
       }
     },
     {
+      "key": "Enemies Scanner",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 125,
+        "override_max_discount": false,
+        "max_discount": 50,
+        "override_weight": false,
+        "weight": 1.02
+      }
+    },
+    {
       "key": "Extension ladder",
       "value": {
         "active": true,
@@ -65,7 +65,7 @@
       "value": {
         "active": true,
         "override_price": false,
-        "price": 65,
+        "price": 60,
         "override_max_discount": false,
         "max_discount": 80,
         "override_weight": false,
@@ -106,6 +106,30 @@
         "max_discount": 80,
         "override_weight": false,
         "weight": 1.05
+      }
+    },
+    {
+      "key": "Glow stick",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 10,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 0.0
+      }
+    },
+    {
+      "key": "Hacking Tool",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 40,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0476
       }
     },
     {
@@ -175,9 +199,33 @@
         "override_price": false,
         "price": 80,
         "override_max_discount": false,
-        "max_discount": 80,
+        "max_discount": 70,
         "override_weight": false,
         "weight": 1.0476191
+      }
+    },
+    {
+      "key": "Personal Radar",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 400,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.1
+      }
+    },
+    {
+      "key": "Pinger",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 100,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.028
       }
     },
     {
@@ -205,18 +253,6 @@
       }
     },
     {
-      "key": "Remote Radar",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 150,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.0476
-      }
-    },
-    {
       "key": "Rocket boots",
       "value": {
         "active": true,
@@ -225,7 +261,7 @@
         "override_max_discount": false,
         "max_discount": 80,
         "override_weight": false,
-        "weight": 1.03809524
+        "weight": 1.0
       }
     },
     {

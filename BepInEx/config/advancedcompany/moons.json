@@ -1,6 +1,958 @@
 {
   "moons": [
     {
+      "key": "10 EGypt",
+      "value": {
+        "override_price": false,
+        "price": 60,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.6,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 16,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 22,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Fancy lamp",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 33
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Golden cup",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Painting",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          },
+          {
+            "key": "Bell",
+            "value": {
+              "override": false,
+              "rarity": 48
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Toothpaste",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Brush",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Pill bottle",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Perfume bottle",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Mug",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 34
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 35
+            }
+          },
+          {
+            "key": "Hairdryer",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Teeth",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Magic 7 ball",
+            "value": {
+              "override": false,
+              "rarity": 23
+            }
+          },
+          {
+            "key": "Rubber Ducky",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Candy",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 69
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 64
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Whoopie cushion",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 19,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 4.0,
+        "daytime_enemies": [
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 73
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 59
+            }
+          },
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 90
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 21,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 39
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 90
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 48
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 15,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 6.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 47
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 70
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 14
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "2 Ganimedes",
+      "value": {
+        "override_price": false,
+        "price": 1200,
+        "override_dungeon_size": false,
+        "dungeon_size": 3.0,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 35,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 45,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Metal sheet",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Steering wheel",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Cookie mold pan",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Egg beater",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Dust pan",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Yield sign",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Bell",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Rubber Ducky",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Flask",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Whoopie cushion",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Magic 7 ball",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Teeth",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Perfume bottle",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Chemical jug",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Brush",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Hairdryer",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Candy",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Toothpaste",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Fancy lamp",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Golden cup",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Painting",
+            "value": {
+              "override": false,
+              "rarity": 48
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Mug",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Pill bottle",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Diamond",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Ruby",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Emerald",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Gold bar",
+            "value": {
+              "override": false,
+              "rarity": 50
+            }
+          },
+          {
+            "key": "SilverBar",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "BronzeBar",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Pickaxe",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "MP3",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 5,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 5.0,
+        "daytime_enemies": [
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 50
+            }
+          },
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 12,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 70
+            }
+          },
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 26,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          }
+        ]
+      }
+    },
+    {
       "key": "21 Offense",
       "value": {
         "override_price": false,
@@ -164,6 +1116,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Toy car",
             "value": {
               "override": false,
@@ -216,14 +1175,14 @@
             "key": "Gas Can",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 8
             }
           },
           {
             "key": "Metal Beam",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 3
             }
           },
           {
@@ -279,7 +1238,7 @@
             "key": "Air Compressor",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
@@ -328,28 +1287,28 @@
             "key": "Floppy Disk",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 7
             }
           },
           {
             "key": "Big Wrench",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 7
             }
           },
           {
             "key": "Lost Employee Helmet",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 9
             }
           },
           {
             "key": "Lost Employee Tank",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 9
             }
           },
           {
@@ -384,119 +1343,210 @@
             "key": "Studio Camera",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "6 Pin Cable",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 10
             }
           },
           {
             "key": "Capacitor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Diode",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Transistor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Magnet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Blue Tape",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Tape Measure",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Flip Phone",
             "value": {
               "override": false,
-              "rarity": 4
+              "rarity": 3
             }
           },
           {
             "key": "Control Panel",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 4
             }
           },
           {
             "key": "Car Battery",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 4
             }
           },
           {
             "key": "Piston",
             "value": {
               "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "AC Unit",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Alarm Clock",
+            "value": {
+              "override": false,
               "rarity": 6
+            }
+          },
+          {
+            "key": "AA Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "9V Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Polaroid Camera",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Jet Engine",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Lightbulb",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Lighter",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Neon Sign",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Propane Tank",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Traffic light",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Vice",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Ouija Board",
+            "value": {
+              "override": false,
+              "rarity": 20
             }
           },
           {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
@@ -524,84 +1574,91 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Boink",
-            "value": {
-              "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Cup Noodle",
-            "value": {
-              "override": false,
               "rarity": 0
             }
           },
           {
-            "key": "Freddy Fast Bear?",
+            "key": "Battery",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 70
             }
           },
           {
-            "key": "Nokia 3310",
+            "key": "Screwdriver",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 40
             }
           },
           {
-            "key": "Moai",
+            "key": "Gemstone",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
-            "key": "Froggy Chair",
+            "key": "Army Helmet",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Eevee Plush",
+            "key": "Canteen",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Death Note",
+            "key": "Gramophone",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 30
             }
           },
           {
-            "key": "Uno Reverse Card",
+            "key": "Old Radio",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Ouija Board",
+            "key": "RockingHorse",
             "value": {
               "override": false,
-              "rarity": 20
+              "rarity": 30
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 40
             }
           },
           {
@@ -609,6 +1666,13 @@
             "value": {
               "override": false,
               "rarity": 25
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
@@ -736,7 +1800,14 @@
             "key": "Boomba",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -990,6 +2061,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Toy car",
             "value": {
               "override": false,
@@ -1042,14 +2120,14 @@
             "key": "Gas Can",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 8
             }
           },
           {
             "key": "Metal Beam",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 2
             }
           },
           {
@@ -1063,14 +2141,14 @@
             "key": "Box Of Parts",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 5
             }
           },
           {
             "key": "Copper Wire Spool",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
@@ -1105,7 +2183,7 @@
             "key": "Air Compressor",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
@@ -1154,14 +2232,14 @@
             "key": "Floppy Disk",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
             "key": "Big Wrench",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
@@ -1182,28 +2260,28 @@
             "key": "Aerial Dish",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
             "key": "Old Missile",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
             "key": "Diesel Generator",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
             "key": "Oil Drum",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
@@ -1217,112 +2295,203 @@
             "key": "6 Pin Cable",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 10
             }
           },
           {
             "key": "Capacitor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Diode",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Transistor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Magnet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Blue Tape",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Tape Measure",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Flip Phone",
             "value": {
               "override": false,
-              "rarity": 4
+              "rarity": 3
             }
           },
           {
             "key": "Control Panel",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 4
             }
           },
           {
             "key": "Car Battery",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 4
             }
           },
           {
             "key": "Piston",
             "value": {
               "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "AC Unit",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Alarm Clock",
+            "value": {
+              "override": false,
               "rarity": 6
+            }
+          },
+          {
+            "key": "AA Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "9V Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Polaroid Camera",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Jet Engine",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Lightbulb",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Lighter",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Neon Sign",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Propane Tank",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Traffic light",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Vice",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Ouija Board",
+            "value": {
+              "override": false,
+              "rarity": 20
             }
           },
           {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
@@ -1350,84 +2519,91 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Boink",
-            "value": {
-              "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Cup Noodle",
-            "value": {
-              "override": false,
               "rarity": 0
             }
           },
           {
-            "key": "Freddy Fast Bear?",
+            "key": "Battery",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 70
             }
           },
           {
-            "key": "Nokia 3310",
+            "key": "Screwdriver",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 40
             }
           },
           {
-            "key": "Moai",
+            "key": "Gemstone",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
-            "key": "Froggy Chair",
+            "key": "Army Helmet",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Eevee Plush",
+            "key": "Canteen",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Death Note",
+            "key": "Gramophone",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 30
             }
           },
           {
-            "key": "Uno Reverse Card",
+            "key": "Old Radio",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Ouija Board",
+            "key": "RockingHorse",
             "value": {
               "override": false,
-              "rarity": 20
+              "rarity": 30
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 40
             }
           },
           {
@@ -1435,6 +2611,13 @@
             "value": {
               "override": false,
               "rarity": 25
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
@@ -1576,7 +2759,14 @@
             "key": "Boomba",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -1753,6 +2943,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Toy car",
             "value": {
               "override": false,
@@ -1805,14 +3002,14 @@
             "key": "Gas Can",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 8
             }
           },
           {
             "key": "Metal Beam",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 2
             }
           },
           {
@@ -1826,14 +3023,14 @@
             "key": "Box Of Parts",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 5
             }
           },
           {
             "key": "Copper Wire Spool",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
@@ -1868,7 +3065,7 @@
             "key": "Air Compressor",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
@@ -1917,14 +3114,14 @@
             "key": "Floppy Disk",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
             "key": "Big Wrench",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
@@ -1945,28 +3142,28 @@
             "key": "Aerial Dish",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
             "key": "Old Missile",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
             "key": "Diesel Generator",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
             "key": "Oil Drum",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
@@ -1980,112 +3177,203 @@
             "key": "6 Pin Cable",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 10
             }
           },
           {
             "key": "Capacitor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Diode",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Transistor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Magnet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Blue Tape",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Tape Measure",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Flip Phone",
             "value": {
               "override": false,
-              "rarity": 4
+              "rarity": 3
             }
           },
           {
             "key": "Control Panel",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 4
             }
           },
           {
             "key": "Car Battery",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 4
             }
           },
           {
             "key": "Piston",
             "value": {
               "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "AC Unit",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Alarm Clock",
+            "value": {
+              "override": false,
               "rarity": 6
+            }
+          },
+          {
+            "key": "AA Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "9V Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Polaroid Camera",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Jet Engine",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Lightbulb",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Lighter",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Neon Sign",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Propane Tank",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Traffic light",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Vice",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Ouija Board",
+            "value": {
+              "override": false,
+              "rarity": 20
             }
           },
           {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
@@ -2113,84 +3401,91 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Boink",
-            "value": {
-              "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Cup Noodle",
-            "value": {
-              "override": false,
               "rarity": 0
             }
           },
           {
-            "key": "Freddy Fast Bear?",
+            "key": "Battery",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 70
             }
           },
           {
-            "key": "Nokia 3310",
+            "key": "Screwdriver",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 40
             }
           },
           {
-            "key": "Moai",
+            "key": "Gemstone",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
-            "key": "Froggy Chair",
+            "key": "Army Helmet",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Eevee Plush",
+            "key": "Canteen",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Death Note",
+            "key": "Gramophone",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 30
             }
           },
           {
-            "key": "Uno Reverse Card",
+            "key": "Old Radio",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Ouija Board",
+            "key": "RockingHorse",
             "value": {
               "override": false,
-              "rarity": 20
+              "rarity": 30
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 40
             }
           },
           {
@@ -2198,6 +3493,13 @@
             "value": {
               "override": false,
               "rarity": 25
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
@@ -2232,6 +3534,13 @@
             "value": {
               "override": false,
               "rarity": 52
+            }
+          },
+          {
+            "key": "Peeper",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           }
         ],
@@ -2332,7 +3641,14 @@
             "key": "Boomba",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -2579,6 +3895,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Toy car",
             "value": {
               "override": false,
@@ -2631,14 +3954,14 @@
             "key": "Gas Can",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 8
             }
           },
           {
             "key": "Metal Beam",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 2
             }
           },
           {
@@ -2652,14 +3975,14 @@
             "key": "Box Of Parts",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 5
             }
           },
           {
             "key": "Copper Wire Spool",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
@@ -2694,7 +4017,7 @@
             "key": "Air Compressor",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
@@ -2743,14 +4066,14 @@
             "key": "Floppy Disk",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
             "key": "Big Wrench",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
@@ -2771,28 +4094,28 @@
             "key": "Aerial Dish",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
             "key": "Old Missile",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
             "key": "Diesel Generator",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
             "key": "Oil Drum",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 2
             }
           },
           {
@@ -2806,112 +4129,203 @@
             "key": "6 Pin Cable",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 10
             }
           },
           {
             "key": "Capacitor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Diode",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Transistor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Magnet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Blue Tape",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Tape Measure",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Flip Phone",
             "value": {
               "override": false,
-              "rarity": 4
+              "rarity": 3
             }
           },
           {
             "key": "Control Panel",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 4
             }
           },
           {
             "key": "Car Battery",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 4
             }
           },
           {
             "key": "Piston",
             "value": {
               "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "AC Unit",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Alarm Clock",
+            "value": {
+              "override": false,
               "rarity": 6
+            }
+          },
+          {
+            "key": "AA Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "9V Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Polaroid Camera",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Jet Engine",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Lightbulb",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Lighter",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Neon Sign",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Propane Tank",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Traffic light",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Vice",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Ouija Board",
+            "value": {
+              "override": false,
+              "rarity": 20
             }
           },
           {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
@@ -2939,84 +4353,91 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Boink",
-            "value": {
-              "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Cup Noodle",
-            "value": {
-              "override": false,
               "rarity": 0
             }
           },
           {
-            "key": "Freddy Fast Bear?",
+            "key": "Battery",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 70
             }
           },
           {
-            "key": "Nokia 3310",
+            "key": "Screwdriver",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 40
             }
           },
           {
-            "key": "Moai",
+            "key": "Gemstone",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
-            "key": "Froggy Chair",
+            "key": "Army Helmet",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Eevee Plush",
+            "key": "Canteen",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Death Note",
+            "key": "Gramophone",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 30
             }
           },
           {
-            "key": "Uno Reverse Card",
+            "key": "Old Radio",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Ouija Board",
+            "key": "RockingHorse",
             "value": {
               "override": false,
-              "rarity": 20
+              "rarity": 30
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 40
             }
           },
           {
@@ -3024,6 +4445,13 @@
             "value": {
               "override": false,
               "rarity": 25
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
@@ -3158,7 +4586,14 @@
             "key": "Boomba",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -3342,6 +4777,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Toy car",
             "value": {
               "override": false,
@@ -3394,14 +4836,14 @@
             "key": "Gas Can",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 8
             }
           },
           {
             "key": "Metal Beam",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 3
             }
           },
           {
@@ -3457,7 +4899,7 @@
             "key": "Air Compressor",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
@@ -3506,28 +4948,28 @@
             "key": "Floppy Disk",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 7
             }
           },
           {
             "key": "Big Wrench",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 7
             }
           },
           {
             "key": "Lost Employee Helmet",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 9
             }
           },
           {
             "key": "Lost Employee Tank",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 9
             }
           },
           {
@@ -3562,119 +5004,210 @@
             "key": "Studio Camera",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "6 Pin Cable",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 10
             }
           },
           {
             "key": "Capacitor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Diode",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Transistor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Magnet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Blue Tape",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Tape Measure",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Flip Phone",
             "value": {
               "override": false,
-              "rarity": 4
+              "rarity": 3
             }
           },
           {
             "key": "Control Panel",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 4
             }
           },
           {
             "key": "Car Battery",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 4
             }
           },
           {
             "key": "Piston",
             "value": {
               "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "AC Unit",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Alarm Clock",
+            "value": {
+              "override": false,
               "rarity": 6
+            }
+          },
+          {
+            "key": "AA Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "9V Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Polaroid Camera",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Jet Engine",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Lightbulb",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Lighter",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Neon Sign",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Propane Tank",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Traffic light",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Vice",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Ouija Board",
+            "value": {
+              "override": false,
+              "rarity": 20
             }
           },
           {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
@@ -3702,84 +5235,91 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Boink",
-            "value": {
-              "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Cup Noodle",
-            "value": {
-              "override": false,
               "rarity": 0
             }
           },
           {
-            "key": "Freddy Fast Bear?",
+            "key": "Battery",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 70
             }
           },
           {
-            "key": "Nokia 3310",
+            "key": "Screwdriver",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 40
             }
           },
           {
-            "key": "Moai",
+            "key": "Gemstone",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
-            "key": "Froggy Chair",
+            "key": "Army Helmet",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Eevee Plush",
+            "key": "Canteen",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Death Note",
+            "key": "Gramophone",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 30
             }
           },
           {
-            "key": "Uno Reverse Card",
+            "key": "Old Radio",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Ouija Board",
+            "key": "RockingHorse",
             "value": {
               "override": false,
-              "rarity": 20
+              "rarity": 30
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 40
             }
           },
           {
@@ -3787,6 +5327,13 @@
             "value": {
               "override": false,
               "rarity": 25
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
@@ -3935,7 +5482,14 @@
             "key": "Boomba",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -4217,6 +5771,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Potatoes",
             "value": {
               "override": false,
@@ -4255,133 +5816,133 @@
             "key": "Retro PC",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 4
             }
           },
           {
             "key": "Computer Chip",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 1
             }
           },
           {
             "key": "Computer Fan",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 1
             }
           },
           {
             "key": "Gas Can",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 2
             }
           },
           {
             "key": "Metal Beam",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "CRT Monitor",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 4
             }
           },
           {
             "key": "Box Of Parts",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 2
             }
           },
           {
             "key": "Copper Wire Spool",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Ball Bearing",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Metal Disk",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Small Motor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Stator",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Air Compressor",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 2
             }
           },
           {
             "key": "Gear",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Cog",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Small Gear",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Flathead Screw",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Hex Screw",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Panhead Screw",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
@@ -4395,105 +5956,105 @@
             "key": "Big Wrench",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
             "key": "Lost Employee Helmet",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 10
             }
           },
           {
             "key": "Lost Employee Tank",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 10
             }
           },
           {
             "key": "Aerial Dish",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Old Missile",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Diesel Generator",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 5
             }
           },
           {
             "key": "Oil Drum",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Studio Camera",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 5
             }
           },
           {
             "key": "6 Pin Cable",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 4
             }
           },
           {
             "key": "Capacitor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Diode",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Transistor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Magnet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 6
             }
           },
           {
             "key": "Blue Tape",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 6
             }
           },
           {
             "key": "Tape Measure",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 6
             }
           },
           {
@@ -4507,56 +6068,147 @@
             "key": "Control Panel",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 1
             }
           },
           {
             "key": "Car Battery",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 2
             }
           },
           {
             "key": "Piston",
             "value": {
               "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "AC Unit",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Alarm Clock",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "AA Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "9V Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Polaroid Camera",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Jet Engine",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Lightbulb",
+            "value": {
+              "override": false,
               "rarity": 6
+            }
+          },
+          {
+            "key": "Lighter",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Neon Sign",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Propane Tank",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Traffic light",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Vice",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Ouija Board",
+            "value": {
+              "override": false,
+              "rarity": 20
             }
           },
           {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
@@ -4584,84 +6236,91 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Boink",
-            "value": {
-              "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Cup Noodle",
-            "value": {
-              "override": false,
               "rarity": 0
             }
           },
           {
-            "key": "Freddy Fast Bear?",
+            "key": "Battery",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 70
             }
           },
           {
-            "key": "Nokia 3310",
+            "key": "Screwdriver",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 40
             }
           },
           {
-            "key": "Moai",
+            "key": "Gemstone",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
-            "key": "Froggy Chair",
+            "key": "Army Helmet",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Eevee Plush",
+            "key": "Canteen",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Death Note",
+            "key": "Gramophone",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 30
             }
           },
           {
-            "key": "Uno Reverse Card",
+            "key": "Old Radio",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Ouija Board",
+            "key": "RockingHorse",
             "value": {
               "override": false,
-              "rarity": 20
+              "rarity": 30
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 40
             }
           },
           {
@@ -4669,6 +6328,20 @@
             "value": {
               "override": false,
               "rarity": 25
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Fire Axe",
+            "value": {
+              "override": false,
+              "rarity": 5
             }
           },
           {
@@ -4802,7 +6475,14 @@
             "key": "Boomba",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -4828,308 +6508,399 @@
             "key": "Retro PC",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 0
             }
           },
           {
             "key": "Computer Chip",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "Computer Fan",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "Gas Can",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "Metal Beam",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "CRT Monitor",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 0
             }
           },
           {
             "key": "Box Of Parts",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "Copper Wire Spool",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Ball Bearing",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Metal Disk",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Small Motor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Stator",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Air Compressor",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 0
             }
           },
           {
             "key": "Gear",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Cog",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Small Gear",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Flathead Screw",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hex Screw",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Panhead Screw",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Floppy Disk",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 0
             }
           },
           {
             "key": "Big Wrench",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 0
             }
           },
           {
             "key": "Lost Employee Helmet",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "Lost Employee Tank",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "Aerial Dish",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 0
             }
           },
           {
             "key": "Old Missile",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 0
             }
           },
           {
             "key": "Diesel Generator",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 0
             }
           },
           {
             "key": "Oil Drum",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 0
             }
           },
           {
             "key": "Studio Camera",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 0
             }
           },
           {
             "key": "6 Pin Cable",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 0
             }
           },
           {
             "key": "Capacitor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Diode",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Transistor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Magnet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Blue Tape",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Tape Measure",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Flip Phone",
             "value": {
               "override": false,
-              "rarity": 4
+              "rarity": 0
             }
           },
           {
             "key": "Control Panel",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 0
             }
           },
           {
             "key": "Car Battery",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "Piston",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
+            }
+          },
+          {
+            "key": "AC Unit",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Alarm Clock",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "AA Battery",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "9V Battery",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Polaroid Camera",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Jet Engine",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Lightbulb",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Lighter",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Neon Sign",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Propane Tank",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Traffic light",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Vice",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Ouija Board",
+            "value": {
+              "override": false,
+              "rarity": 20
             }
           },
           {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
@@ -5157,84 +6928,91 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Boink",
-            "value": {
-              "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Cup Noodle",
-            "value": {
-              "override": false,
               "rarity": 0
             }
           },
           {
-            "key": "Freddy Fast Bear?",
+            "key": "Battery",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 70
             }
           },
           {
-            "key": "Nokia 3310",
+            "key": "Screwdriver",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 40
             }
           },
           {
-            "key": "Moai",
+            "key": "Gemstone",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
-            "key": "Froggy Chair",
+            "key": "Army Helmet",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Eevee Plush",
+            "key": "Canteen",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Death Note",
+            "key": "Gramophone",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 30
             }
           },
           {
-            "key": "Uno Reverse Card",
+            "key": "Old Radio",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Ouija Board",
+            "key": "RockingHorse",
             "value": {
               "override": false,
-              "rarity": 20
+              "rarity": 30
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 40
             }
           },
           {
@@ -5242,6 +7020,13 @@
             "value": {
               "override": false,
               "rarity": 25
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
@@ -5269,7 +7054,14 @@
             "key": "Boomba",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -5537,6 +7329,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Potatoes",
             "value": {
               "override": false,
@@ -5575,21 +7374,21 @@
             "key": "Retro PC",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 3
             }
           },
           {
             "key": "Computer Chip",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 8
             }
           },
           {
             "key": "Computer Fan",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 8
             }
           },
           {
@@ -5603,21 +7402,21 @@
             "key": "Metal Beam",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 4
             }
           },
           {
             "key": "CRT Monitor",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 3
             }
           },
           {
             "key": "Box Of Parts",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 7
             }
           },
           {
@@ -5659,7 +7458,7 @@
             "key": "Air Compressor",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
@@ -5722,98 +7521,98 @@
             "key": "Lost Employee Helmet",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 10
             }
           },
           {
             "key": "Lost Employee Tank",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 10
             }
           },
           {
             "key": "Aerial Dish",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Old Missile",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Diesel Generator",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Oil Drum",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Studio Camera",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "6 Pin Cable",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 10
             }
           },
           {
             "key": "Capacitor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Diode",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Transistor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Magnet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 5
             }
           },
           {
             "key": "Blue Tape",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
             "key": "Tape Measure",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 8
             }
           },
           {
@@ -5827,56 +7626,147 @@
             "key": "Control Panel",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 4
             }
           },
           {
             "key": "Car Battery",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 4
             }
           },
           {
             "key": "Piston",
             "value": {
               "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "AC Unit",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Alarm Clock",
+            "value": {
+              "override": false,
               "rarity": 6
+            }
+          },
+          {
+            "key": "AA Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "9V Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Polaroid Camera",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Jet Engine",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Lightbulb",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Lighter",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Neon Sign",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Propane Tank",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Traffic light",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Vice",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Ouija Board",
+            "value": {
+              "override": false,
+              "rarity": 20
             }
           },
           {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
@@ -5904,84 +7794,91 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Boink",
-            "value": {
-              "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Cup Noodle",
-            "value": {
-              "override": false,
               "rarity": 0
             }
           },
           {
-            "key": "Freddy Fast Bear?",
+            "key": "Battery",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 70
             }
           },
           {
-            "key": "Nokia 3310",
+            "key": "Screwdriver",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 40
             }
           },
           {
-            "key": "Moai",
+            "key": "Gemstone",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
-            "key": "Froggy Chair",
+            "key": "Army Helmet",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Eevee Plush",
+            "key": "Canteen",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Death Note",
+            "key": "Gramophone",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 30
             }
           },
           {
-            "key": "Uno Reverse Card",
+            "key": "Old Radio",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Ouija Board",
+            "key": "RockingHorse",
             "value": {
               "override": false,
-              "rarity": 20
+              "rarity": 30
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 40
             }
           },
           {
@@ -5989,6 +7886,20 @@
             "value": {
               "override": false,
               "rarity": 25
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Fire Axe",
+            "value": {
+              "override": false,
+              "rarity": 5
             }
           },
           {
@@ -6129,7 +8040,14 @@
             "key": "Boomba",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -6390,6 +8308,20 @@
             }
           },
           {
+            "key": "Light shoes",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Potatoes",
             "value": {
               "override": false,
@@ -6428,133 +8360,133 @@
             "key": "Retro PC",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 4
             }
           },
           {
             "key": "Computer Chip",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 1
             }
           },
           {
             "key": "Computer Fan",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 1
             }
           },
           {
             "key": "Gas Can",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 2
             }
           },
           {
             "key": "Metal Beam",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 0
             }
           },
           {
             "key": "CRT Monitor",
             "value": {
               "override": false,
-              "rarity": 2
+              "rarity": 4
             }
           },
           {
             "key": "Box Of Parts",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 2
             }
           },
           {
             "key": "Copper Wire Spool",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Ball Bearing",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Metal Disk",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Small Motor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Stator",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Air Compressor",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 2
             }
           },
           {
             "key": "Gear",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Cog",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Small Gear",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Flathead Screw",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Hex Screw",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Panhead Screw",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
@@ -6568,105 +8500,105 @@
             "key": "Big Wrench",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 6
             }
           },
           {
             "key": "Lost Employee Helmet",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 10
             }
           },
           {
             "key": "Lost Employee Tank",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 10
             }
           },
           {
             "key": "Aerial Dish",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Old Missile",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Diesel Generator",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 5
             }
           },
           {
             "key": "Oil Drum",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 4
             }
           },
           {
             "key": "Studio Camera",
             "value": {
               "override": false,
-              "rarity": 3
+              "rarity": 5
             }
           },
           {
             "key": "6 Pin Cable",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 4
             }
           },
           {
             "key": "Capacitor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Diode",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Transistor",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
             "key": "Magnet",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 6
             }
           },
           {
             "key": "Blue Tape",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 6
             }
           },
           {
             "key": "Tape Measure",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 6
             }
           },
           {
@@ -6680,56 +8612,147 @@
             "key": "Control Panel",
             "value": {
               "override": false,
-              "rarity": 8
+              "rarity": 1
             }
           },
           {
             "key": "Car Battery",
             "value": {
               "override": false,
-              "rarity": 6
+              "rarity": 2
             }
           },
           {
             "key": "Piston",
             "value": {
               "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "AC Unit",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Alarm Clock",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "AA Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "9V Battery",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Polaroid Camera",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Jet Engine",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Lightbulb",
+            "value": {
+              "override": false,
               "rarity": 6
+            }
+          },
+          {
+            "key": "Lighter",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Neon Sign",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Propane Tank",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Traffic light",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Vice",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Ouija Board",
+            "value": {
+              "override": false,
+              "rarity": 20
             }
           },
           {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 0
             }
           },
           {
@@ -6757,84 +8780,91 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 0
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Boink",
-            "value": {
-              "override": false,
-              "rarity": 10
-            }
-          },
-          {
-            "key": "Cup Noodle",
-            "value": {
-              "override": false,
               "rarity": 0
             }
           },
           {
-            "key": "Freddy Fast Bear?",
+            "key": "Battery",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 70
             }
           },
           {
-            "key": "Nokia 3310",
+            "key": "Screwdriver",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 40
             }
           },
           {
-            "key": "Moai",
+            "key": "Gemstone",
             "value": {
               "override": false,
-              "rarity": 10
+              "rarity": 4
             }
           },
           {
-            "key": "Froggy Chair",
+            "key": "Army Helmet",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Eevee Plush",
+            "key": "Canteen",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Death Note",
+            "key": "Gramophone",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 30
             }
           },
           {
-            "key": "Uno Reverse Card",
+            "key": "Old Radio",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 40
             }
           },
           {
-            "key": "Ouija Board",
+            "key": "RockingHorse",
             "value": {
               "override": false,
-              "rarity": 20
+              "rarity": 30
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 40
             }
           },
           {
@@ -6842,6 +8872,20 @@
             "value": {
               "override": false,
               "rarity": 25
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Fire Axe",
+            "value": {
+              "override": false,
+              "rarity": 5
             }
           },
           {
@@ -6968,7 +9012,315 @@
             "key": "Boomba",
             "value": {
               "override": false,
-              "rarity": 5
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "Atlas Abyss",
+      "value": {
+        "override_price": false,
+        "price": 300,
+        "override_dungeon_size": false,
+        "dungeon_size": 2.0,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 18,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 22,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Painting",
+            "value": {
+              "override": false,
+              "rarity": 38
+            }
+          },
+          {
+            "key": "Remote",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Cookie mold pan",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Yield sign",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Key",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Gold bar",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Teeth",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 80
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 80
+            }
+          },
+          {
+            "key": "Magic 7 ball",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 4,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 7.0,
+        "daytime_enemies": [
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 50
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 5,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 18,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 3.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 120
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 8
             }
           }
         ]
