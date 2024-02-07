@@ -1,3 +1,47 @@
+# Cookies Vision 2.6.0
+
+- Updated config files
+- Added PathfindingLagFix
+- Added Forest_Giant_Motionsense
+- Added Batteries
+- Added OdinSerializer
+- Added LethalStats
+- Added BetterSprayPaint
+- Added ShipWindows
+- Added EnemiesScanner
+- Added Arachnophilia
+- Added FairGiants
+- Added DontBlink
+- Added Scopophobia
+- Added Polaris
+- Added Gratar
+- Added Atlantica
+- Added Asteroid13
+- Updated LethalExpansion
+- Updated Acidir
+- Updated E_Gypt_Moon
+- Updated StarlancerMoons
+- Updated Etern
+- Updated Ether
+- Updated MoreInteriors
+- Updated ScarletDevilMansion
+- Updated Infernis
+- Updated BensCosmetics
+- Updated LethalCompany_InputUtils
+- Updated MirrorDecor
+- Updated CookiesSounds
+- Updated CoilHeadStare
+- Updated OuijaBoard
+- Updated Peepers
+- Updated CSync
+- Updated CookiesPresents
+- Updated OpenBodyCams
+- Updated GeneralImprovements
+- Updated FacilityMeltdown
+- Updated TakeThatMaskOff
+- Updated GoldenShovel
+- Updated AdvancedCompany
+
 # Cookies Vision 2.5.1
 
 - Added Peeper (A new non-lethal outside enemy!)
