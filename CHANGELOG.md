@@ -1,6 +1,6 @@
 # Cookies Vision 2.6.0
 
-- Updated config files
+- Updated many config files
 - Added PathfindingLagFix
 - Added Forest_Giant_Motionsense
 - Added Batteries

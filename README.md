@@ -50,4 +50,4 @@ If you experience a major bug, please try to do a fresh install of the modpack, 
 
 ^ OR: delete your old config folder, and let the modpack update, launch the game for the first time, and let it write new updated config files.
 
-For inquiries, suggestions, or assistance, feel free to use our [Github repository](https://github.com/direpromise/CookiesVisionModpack) or [our Discord Server](https://discord.gg/7r7RBpybV.
+For inquiries, suggestions, or assistance, feel free to use our [Github repository](https://github.com/direpromise/CookiesVisionModpack) or [our Discord Server](https://discord.gg/7r7RBpybV).
